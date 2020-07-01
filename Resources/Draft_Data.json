@@ -1,0 +1,10482 @@
+[{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418252"
+  },
+  "Round": 1,
+  "Pick": 1,
+  "Team": "HOU",
+  "Player": "Mario Williams",
+  "First": "Mario",
+  "Last": "Williams",
+  "Position": "DE",
+  "Age": 21,
+  "Until": 2016,
+  "AP1": 1,
+  "PB": 4,
+  "YearsStarter": 9,
+  "CareerAverage": 76,
+  "DraftAverage": 34,
+  "Games": 158,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 317,
+  "DefensiveInt": 0,
+  "Sacks": 97.5,
+  "College": "North Carolina St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418253"
+  },
+  "Round": 1,
+  "Pick": 2,
+  "Team": "NOR",
+  "Player": "Reggie Bush",
+  "First": "Reggie",
+  "Last": "Bush",
+  "Position": "RB",
+  "Age": 21,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 61,
+  "DraftAverage": 33,
+  "Games": 134,
+  "PassComp": 0,
+  "PassAtt": 1,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 1,
+  "RushAtt": 1286,
+  "RushYards": 5490,
+  "RushTDs": 36,
+  "Rec": 477,
+  "RecYards": 3598,
+  "RecTDs": 18,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418254"
+  },
+  "Round": 1,
+  "Pick": 3,
+  "Team": "TEN",
+  "Player": "Vince Young",
+  "First": "Vince",
+  "Last": "Young",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 4,
+  "CareerAverage": 33,
+  "DraftAverage": 31,
+  "Games": 60,
+  "PassComp": 755,
+  "PassAtt": 1304,
+  "PassYards": 8964,
+  "PassTDs": 46,
+  "Int": 51,
+  "RushAtt": 282,
+  "RushYards": 1459,
+  "RushTDs": 12,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Texas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418255"
+  },
+  "Round": 1,
+  "Pick": 4,
+  "Team": "NYJ",
+  "Player": "DBrickashaw Ferguson",
+  "First": "DBrickashaw",
+  "Last": "Ferguson",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 3,
+  "YearsStarter": 10,
+  "CareerAverage": 61,
+  "DraftAverage": 61,
+  "Games": 160,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418256"
+  },
+  "Round": 1,
+  "Pick": 5,
+  "Team": "GNB",
+  "Player": "AJ Hawk",
+  "First": "AJ",
+  "Last": "Hawk",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 10,
+  "CareerAverage": 59,
+  "DraftAverage": 56,
+  "Games": 159,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 645,
+  "DefensiveInt": 9,
+  "Sacks": 20,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418257"
+  },
+  "Round": 1,
+  "Pick": 6,
+  "Team": "SFO",
+  "Player": "Vernon Davis",
+  "First": "Vernon",
+  "Last": "Davis",
+  "Position": "TE",
+  "Age": 22,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 11,
+  "CareerAverage": 51,
+  "DraftAverage": 41,
+  "Games": 198,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 6,
+  "RushYards": 15,
+  "RushTDs": 0,
+  "Rec": 583,
+  "RecYards": 7562,
+  "RecTDs": 63,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Maryland"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418258"
+  },
+  "Round": 1,
+  "Pick": 7,
+  "Team": "OAK",
+  "Player": "Michael Huff",
+  "First": "Michael",
+  "Last": "Huff",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 33,
+  "DraftAverage": 33,
+  "Games": 118,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 371,
+  "DefensiveInt": 11,
+  "Sacks": 5.5,
+  "College": "Texas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418259"
+  },
+  "Round": 1,
+  "Pick": 8,
+  "Team": "BUF",
+  "Player": "Donte Whitner",
+  "First": "Donte",
+  "Last": "Whitner",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 9,
+  "CareerAverage": 48,
+  "DraftAverage": 18,
+  "Games": 157,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 668,
+  "DefensiveInt": 11,
+  "Sacks": 3,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041825a"
+  },
+  "Round": 1,
+  "Pick": 9,
+  "Team": "DET",
+  "Player": "Ernie Sims",
+  "First": "Ernie",
+  "Last": "Sims",
+  "Position": "LB",
+  "Age": 21,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 5,
+  "CareerAverage": 30,
+  "DraftAverage": 19,
+  "Games": 109,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 420,
+  "DefensiveInt": 1,
+  "Sacks": 5.5,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041825b"
+  },
+  "Round": 1,
+  "Pick": 10,
+  "Team": "ARI",
+  "Player": "Matt Leinart",
+  "First": "Matt",
+  "Last": "Leinart",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 12,
+  "DraftAverage": 12,
+  "Games": 33,
+  "PassComp": 366,
+  "PassAtt": 641,
+  "PassYards": 4065,
+  "PassTDs": 15,
+  "Int": 21,
+  "RushAtt": 47,
+  "RushYards": 89,
+  "RushTDs": 2,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041825c"
+  },
+  "Round": 1,
+  "Pick": 11,
+  "Team": "DEN",
+  "Player": "Jay Cutler",
+  "First": "Jay",
+  "Last": "Cutler",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 10,
+  "CareerAverage": 87,
+  "DraftAverage": 28,
+  "Games": 153,
+  "PassComp": 3048,
+  "PassAtt": 4920,
+  "PassYards": 35133,
+  "PassTDs": 227,
+  "Int": 160,
+  "RushAtt": 386,
+  "RushYards": 1682,
+  "RushTDs": 9,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Vanderbilt"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041825d"
+  },
+  "Round": 1,
+  "Pick": 12,
+  "Team": "BAL",
+  "Player": "Haloti Ngata",
+  "First": "Haloti",
+  "Last": "Ngata",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2018,
+  "AP1": 2,
+  "PB": 5,
+  "YearsStarter": 12,
+  "CareerAverage": 99,
+  "DraftAverage": 91,
+  "Games": 180,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 329,
+  "DefensiveInt": 5,
+  "Sacks": 32.5,
+  "College": "Oregon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041825e"
+  },
+  "Round": 1,
+  "Pick": 13,
+  "Team": "CLE",
+  "Player": "Kamerion Wimbley",
+  "First": "Kamerion",
+  "Last": "Wimbley",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 8,
+  "CareerAverage": 44,
+  "DraftAverage": 23,
+  "Games": 140,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 322,
+  "DefensiveInt": 2,
+  "Sacks": 53.5,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041825f"
+  },
+  "Round": 1,
+  "Pick": 14,
+  "Team": "PHI",
+  "Player": "Brodrick Bunkley",
+  "First": "Brodrick",
+  "Last": "Bunkley",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 41,
+  "DraftAverage": 26,
+  "Games": 130,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 171,
+  "DefensiveInt": 0,
+  "Sacks": 8.5,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418260"
+  },
+  "Round": 1,
+  "Pick": 15,
+  "Team": "STL",
+  "Player": "Tye Hill",
+  "First": "Tye",
+  "Last": "Hill",
+  "Position": "DB",
+  "Age": 24,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 9,
+  "DraftAverage": 7,
+  "Games": 40,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 117,
+  "DefensiveInt": 5,
+  "Sacks": 0,
+  "College": "Clemson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418261"
+  },
+  "Round": 1,
+  "Pick": 16,
+  "Team": "MIA",
+  "Player": "Jason Allen",
+  "First": "Jason",
+  "Last": "Allen",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 13,
+  "DraftAverage": 9,
+  "Games": 98,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 213,
+  "DefensiveInt": 15,
+  "Sacks": 0,
+  "College": "Tennessee"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418262"
+  },
+  "Round": 1,
+  "Pick": 17,
+  "Team": "MIN",
+  "Player": "Chad Greenway",
+  "First": "Chad",
+  "Last": "Greenway",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 10,
+  "CareerAverage": 64,
+  "DraftAverage": 64,
+  "Games": 156,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 762,
+  "DefensiveInt": 11,
+  "Sacks": 18,
+  "College": "Iowa"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418263"
+  },
+  "Round": 1,
+  "Pick": 18,
+  "Team": "DAL",
+  "Player": "Bobby Carpenter",
+  "First": "Bobby",
+  "Last": "Carpenter",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 10,
+  "DraftAverage": 5,
+  "Games": 93,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 126,
+  "DefensiveInt": 1,
+  "Sacks": 3.5,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418264"
+  },
+  "Round": 1,
+  "Pick": 19,
+  "Team": "SDG",
+  "Player": "Antonio Cromartie",
+  "First": "Antonio",
+  "Last": "Cromartie",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2016,
+  "AP1": 1,
+  "PB": 4,
+  "YearsStarter": 8,
+  "CareerAverage": 61,
+  "DraftAverage": 22,
+  "Games": 162,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 1,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": -2,
+  "RecTDs": 0,
+  "TackleSolo": 376,
+  "DefensiveInt": 31,
+  "Sacks": 0,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418265"
+  },
+  "Round": 1,
+  "Pick": 20,
+  "Team": "KAN",
+  "Player": "Tamba Hali",
+  "First": "Tamba",
+  "Last": "Hali",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 5,
+  "YearsStarter": 10,
+  "CareerAverage": 77,
+  "DraftAverage": 77,
+  "Games": 177,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 460,
+  "DefensiveInt": 2,
+  "Sacks": 89.5,
+  "College": "Penn St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418266"
+  },
+  "Round": 1,
+  "Pick": 21,
+  "Team": "NWE",
+  "Player": "Laurence Maroney",
+  "First": "Laurence",
+  "Last": "Maroney",
+  "Position": "RB",
+  "Age": 21,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 26,
+  "DraftAverage": 25,
+  "Games": 49,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 618,
+  "RushYards": 2504,
+  "RushTDs": 21,
+  "Rec": 44,
+  "RecYards": 459,
+  "RecTDs": 1,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Minnesota"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418267"
+  },
+  "Round": 1,
+  "Pick": 22,
+  "Team": "SFO",
+  "Player": "Manny Lawson",
+  "First": "Manny",
+  "Last": "Lawson",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 46,
+  "DraftAverage": 23,
+  "Games": 143,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 352,
+  "DefensiveInt": 4,
+  "Sacks": 24.5,
+  "College": "North Carolina St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418268"
+  },
+  "Round": 1,
+  "Pick": 23,
+  "Team": "TAM",
+  "Player": "Davin Joseph",
+  "First": "Davin",
+  "Last": "Joseph",
+  "Position": "G",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 8,
+  "CareerAverage": 42,
+  "DraftAverage": 37,
+  "Games": 116,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oklahoma"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418269"
+  },
+  "Round": 1,
+  "Pick": 24,
+  "Team": "CIN",
+  "Player": "Johnathan Joseph",
+  "First": "Johnathan",
+  "Last": "Joseph",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 13,
+  "CareerAverage": 66,
+  "DraftAverage": 17,
+  "Games": 200,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 642,
+  "DefensiveInt": 31,
+  "Sacks": 0,
+  "College": "South Carolina"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041826a"
+  },
+  "Round": 1,
+  "Pick": 25,
+  "Team": "PIT",
+  "Player": "Santonio Holmes",
+  "First": "Santonio",
+  "Last": "Holmes",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 47,
+  "DraftAverage": 35,
+  "Games": 112,
+  "PassComp": 0,
+  "PassAtt": 1,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 16,
+  "RushYards": 89,
+  "RushTDs": 0,
+  "Rec": 389,
+  "RecYards": 6030,
+  "RecTDs": 36,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041826b"
+  },
+  "Round": 1,
+  "Pick": 26,
+  "Team": "BUF",
+  "Player": "John McCargo",
+  "First": "John",
+  "Last": "McCargo",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 3,
+  "DraftAverage": 3,
+  "Games": 44,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 35,
+  "DefensiveInt": 0,
+  "Sacks": 2.5,
+  "College": "North Carolina St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041826c"
+  },
+  "Round": 1,
+  "Pick": 27,
+  "Team": "CAR",
+  "Player": "DeAngelo Williams",
+  "First": "DeAngelo",
+  "Last": "Williams",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 6,
+  "CareerAverage": 61,
+  "DraftAverage": 51,
+  "Games": 142,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1730,
+  "RushYards": 8096,
+  "RushTDs": 61,
+  "Rec": 236,
+  "RecYards": 2106,
+  "RecTDs": 9,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Memphis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041826d"
+  },
+  "Round": 1,
+  "Pick": 28,
+  "Team": "JAX",
+  "Player": "Marcedes Lewis",
+  "First": "Marcedes",
+  "Last": "Lewis",
+  "Position": "TE",
+  "Age": 22,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 12,
+  "CareerAverage": 33,
+  "DraftAverage": 33,
+  "Games": 202,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 393,
+  "RecYards": 4697,
+  "RecTDs": 34,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "UCLA"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041826e"
+  },
+  "Round": 1,
+  "Pick": 29,
+  "Team": "NYJ",
+  "Player": "Nick Mangold",
+  "First": "Nick",
+  "Last": "Mangold",
+  "Position": "C",
+  "Age": 22,
+  "Until": 2016,
+  "AP1": 2,
+  "PB": 7,
+  "YearsStarter": 11,
+  "CareerAverage": 62,
+  "DraftAverage": 62,
+  "Games": 164,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": -3,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041826f"
+  },
+  "Round": 1,
+  "Pick": 30,
+  "Team": "IND",
+  "Player": "Joseph Addai",
+  "First": "Joseph",
+  "Last": "Addai",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 4,
+  "CareerAverage": 50,
+  "DraftAverage": 50,
+  "Games": 78,
+  "PassComp": 1,
+  "PassAtt": 1,
+  "PassYards": 22,
+  "PassTDs": 1,
+  "Int": 0,
+  "RushAtt": 1095,
+  "RushYards": 4453,
+  "RushTDs": 39,
+  "Rec": 191,
+  "RecYards": 1448,
+  "RecTDs": 9,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418270"
+  },
+  "Round": 1,
+  "Pick": 31,
+  "Team": "SEA",
+  "Player": "Kelly Jennings",
+  "First": "Kelly",
+  "Last": "Jennings",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 18,
+  "DraftAverage": 18,
+  "Games": 91,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 211,
+  "DefensiveInt": 2,
+  "Sacks": 1,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418271"
+  },
+  "Round": 1,
+  "Pick": 32,
+  "Team": "NYG",
+  "Player": "Mathias Kiwanuka",
+  "First": "Mathias",
+  "Last": "Kiwanuka",
+  "Position": "DE",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 36,
+  "DraftAverage": 36,
+  "Games": 120,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 301,
+  "DefensiveInt": 3,
+  "Sacks": 38.5,
+  "College": "Boston Col."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418272"
+  },
+  "Round": 2,
+  "Pick": 33,
+  "Team": "HOU",
+  "Player": "DeMeco Ryans",
+  "First": "DeMeco",
+  "Last": "Ryans",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 9,
+  "CareerAverage": 57,
+  "DraftAverage": 38,
+  "Games": 140,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 735,
+  "DefensiveInt": 7,
+  "Sacks": 13.5,
+  "College": "Alabama"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418273"
+  },
+  "Round": 2,
+  "Pick": 34,
+  "Team": "CLE",
+  "Player": "DQwell Jackson",
+  "First": "DQwell",
+  "Last": "Jackson",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 9,
+  "CareerAverage": 63,
+  "DraftAverage": 40,
+  "Games": 141,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 754,
+  "DefensiveInt": 9,
+  "Sacks": 19.5,
+  "College": "Maryland"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418274"
+  },
+  "Round": 2,
+  "Pick": 35,
+  "Team": "WAS",
+  "Player": "Rocky McIntosh",
+  "First": "Rocky",
+  "Last": "McIntosh",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 38,
+  "DraftAverage": 33,
+  "Games": 124,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 371,
+  "DefensiveInt": 4,
+  "Sacks": 9,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418275"
+  },
+  "Round": 2,
+  "Pick": 36,
+  "Team": "NWE",
+  "Player": "Chad Jackson",
+  "First": "Chad",
+  "Last": "Jackson",
+  "Position": "WR",
+  "Age": 21,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 18,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 4,
+  "RushYards": 22,
+  "RushTDs": 0,
+  "Rec": 14,
+  "RecYards": 171,
+  "RecTDs": 3,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Florida"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418276"
+  },
+  "Round": 2,
+  "Pick": 37,
+  "Team": "ATL",
+  "Player": "Jimmy Williams",
+  "First": "Jimmy",
+  "Last": "Williams",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 4,
+  "DraftAverage": 4,
+  "Games": 27,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 41,
+  "DefensiveInt": 1,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418277"
+  },
+  "Round": 2,
+  "Pick": 38,
+  "Team": "OAK",
+  "Player": "Thomas Howard",
+  "First": "Thomas",
+  "Last": "Howard",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 5,
+  "CareerAverage": 34,
+  "DraftAverage": 26,
+  "Games": 95,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 392,
+  "DefensiveInt": 7,
+  "Sacks": 6,
+  "College": "Texas-El Paso"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418278"
+  },
+  "Round": 2,
+  "Pick": 39,
+  "Team": "PHI",
+  "Player": "Winston Justice",
+  "First": "Winston",
+  "Last": "Justice",
+  "Position": "T",
+  "Age": 21,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 23,
+  "DraftAverage": 17,
+  "Games": 63,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418279"
+  },
+  "Round": 2,
+  "Pick": 40,
+  "Team": "DET",
+  "Player": "Daniel Bullocks",
+  "First": "Daniel",
+  "Last": "Bullocks",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 7,
+  "DraftAverage": 7,
+  "Games": 31,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 119,
+  "DefensiveInt": 0,
+  "Sacks": 1,
+  "College": "Nebraska"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041827a"
+  },
+  "Round": 2,
+  "Pick": 41,
+  "Team": "ARI",
+  "Player": "Deuce Lutui",
+  "First": "Deuce",
+  "Last": "Lutui",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 32,
+  "DraftAverage": 30,
+  "Games": 101,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041827b"
+  },
+  "Round": 2,
+  "Pick": 42,
+  "Team": "CHI",
+  "Player": "Danieal Manning",
+  "First": "Danieal",
+  "Last": "Manning",
+  "Position": "DB",
+  "Age": 24,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 37,
+  "DraftAverage": 22,
+  "Games": 128,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 435,
+  "DefensiveInt": 11,
+  "Sacks": 4,
+  "College": "Abilene Christian"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041827c"
+  },
+  "Round": 2,
+  "Pick": 43,
+  "Team": "NOR",
+  "Player": "Roman Harper",
+  "First": "Roman",
+  "Last": "Harper",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 8,
+  "CareerAverage": 48,
+  "DraftAverage": 37,
+  "Games": 156,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 641,
+  "DefensiveInt": 11,
+  "Sacks": 18,
+  "College": "Alabama"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041827d"
+  },
+  "Round": 2,
+  "Pick": 44,
+  "Team": "NYG",
+  "Player": "Sinorice Moss",
+  "First": "Sinorice",
+  "Last": "Moss",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 4,
+  "DraftAverage": 4,
+  "Games": 37,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 4,
+  "RushTDs": 0,
+  "Rec": 39,
+  "RecYards": 421,
+  "RecTDs": 3,
+  "TackleSolo": 2,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041827e"
+  },
+  "Round": 2,
+  "Pick": 45,
+  "Team": "TEN",
+  "Player": "LenDale White",
+  "First": "LenDale",
+  "Last": "White",
+  "Position": "RB",
+  "Age": 21,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 14,
+  "DraftAverage": 14,
+  "Games": 58,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 628,
+  "RushYards": 2349,
+  "RushTDs": 24,
+  "Rec": 42,
+  "RecYards": 204,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041827f"
+  },
+  "Round": 2,
+  "Pick": 46,
+  "Team": "STL",
+  "Player": "Joe Klopfenstein",
+  "First": "Joe",
+  "Last": "Klopfenstein",
+  "Position": "TE",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 3,
+  "DraftAverage": 3,
+  "Games": 49,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 34,
+  "RecYards": 397,
+  "RecTDs": 2,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Colorado"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418280"
+  },
+  "Round": 2,
+  "Pick": 47,
+  "Team": "GNB",
+  "Player": "Daryn Colledge",
+  "First": "Daryn",
+  "Last": "Colledge",
+  "Position": "T",
+  "Age": 24,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 9,
+  "CareerAverage": 54,
+  "DraftAverage": 36,
+  "Games": 141,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Boise St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418281"
+  },
+  "Round": 2,
+  "Pick": 48,
+  "Team": "MIN",
+  "Player": "Cedric Griffin",
+  "First": "Cedric",
+  "Last": "Griffin",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 26,
+  "DraftAverage": 25,
+  "Games": 89,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 352,
+  "DefensiveInt": 8,
+  "Sacks": 0,
+  "College": "Texas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418282"
+  },
+  "Round": 2,
+  "Pick": 49,
+  "Team": "NYJ",
+  "Player": "Kellen Clemens",
+  "First": "Kellen",
+  "Last": "Clemens",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 10,
+  "DraftAverage": 3,
+  "Games": 64,
+  "PassComp": 350,
+  "PassAtt": 638,
+  "PassYards": 4053,
+  "PassTDs": 16,
+  "Int": 21,
+  "RushAtt": 85,
+  "RushYards": 227,
+  "RushTDs": 3,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oregon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418283"
+  },
+  "Round": 2,
+  "Pick": 50,
+  "Team": "SDG",
+  "Player": "Marcus McNeill",
+  "First": "Marcus",
+  "Last": "McNeill",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 6,
+  "CareerAverage": 55,
+  "DraftAverage": 55,
+  "Games": 82,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Auburn"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418284"
+  },
+  "Round": 2,
+  "Pick": 51,
+  "Team": "MIN",
+  "Player": "Ryan Cook",
+  "First": "Ryan",
+  "Last": "Cook",
+  "Position": "C",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 24,
+  "DraftAverage": 18,
+  "Games": 90,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "New Mexico"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418285"
+  },
+  "Round": 2,
+  "Pick": 52,
+  "Team": "GNB",
+  "Player": "Greg Jennings",
+  "First": "Greg",
+  "Last": "Jennings",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 8,
+  "CareerAverage": 65,
+  "DraftAverage": 54,
+  "Games": 143,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": -1,
+  "RushTDs": 0,
+  "Rec": 571,
+  "RecYards": 8291,
+  "RecTDs": 64,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "West. Michigan"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418286"
+  },
+  "Round": 2,
+  "Pick": 53,
+  "Team": "DAL",
+  "Player": "Anthony Fasano",
+  "First": "Anthony",
+  "Last": "Fasano",
+  "Position": "TE",
+  "Age": 22,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 9,
+  "CareerAverage": 23,
+  "DraftAverage": 2,
+  "Games": 180,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 299,
+  "RecYards": 3278,
+  "RecTDs": 36,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Notre Dame"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418287"
+  },
+  "Round": 2,
+  "Pick": 54,
+  "Team": "KAN",
+  "Player": "Bernard Pollard",
+  "First": "Bernard",
+  "Last": "Pollard",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 36,
+  "DraftAverage": 11,
+  "Games": 126,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 553,
+  "DefensiveInt": 12,
+  "Sacks": 10.5,
+  "College": "Purdue"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418288"
+  },
+  "Round": 2,
+  "Pick": 55,
+  "Team": "CIN",
+  "Player": "Andrew Whitworth",
+  "First": "Andrew",
+  "Last": "Whitworth",
+  "Position": "T",
+  "Age": 24,
+  "Until": 2019,
+  "AP1": 2,
+  "PB": 4,
+  "YearsStarter": 14,
+  "CareerAverage": 101,
+  "DraftAverage": 69,
+  "Games": 215,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": 1,
+  "RecTDs": 1,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418289"
+  },
+  "Round": 2,
+  "Pick": 56,
+  "Team": "BAL",
+  "Player": "Chris Chester",
+  "First": "Chris",
+  "Last": "Chester",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 9,
+  "CareerAverage": 56,
+  "DraftAverage": 16,
+  "Games": 169,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 3,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oklahoma"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041828a"
+  },
+  "Round": 2,
+  "Pick": 57,
+  "Team": "CHI",
+  "Player": "Devin Hester",
+  "First": "Devin",
+  "Last": "Hester",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2016,
+  "AP1": 3,
+  "PB": 4,
+  "YearsStarter": 4,
+  "CareerAverage": 49,
+  "DraftAverage": 45,
+  "Games": 156,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 36,
+  "RushYards": 116,
+  "RushTDs": 1,
+  "Rec": 255,
+  "RecYards": 3311,
+  "RecTDs": 16,
+  "TackleSolo": 11,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041828b"
+  },
+  "Round": 2,
+  "Pick": 58,
+  "Team": "CAR",
+  "Player": "Richard Marshall",
+  "First": "Richard",
+  "Last": "Marshall",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 32,
+  "DraftAverage": 24,
+  "Games": 124,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 526,
+  "DefensiveInt": 18,
+  "Sacks": 7,
+  "College": "Fresno St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041828c"
+  },
+  "Round": 2,
+  "Pick": 59,
+  "Team": "TAM",
+  "Player": "Jeremy Trueblood",
+  "First": "Jeremy",
+  "Last": "Trueblood",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 40,
+  "DraftAverage": 36,
+  "Games": 116,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Boston Col."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041828d"
+  },
+  "Round": 2,
+  "Pick": 60,
+  "Team": "JAX",
+  "Player": "Maurice JonesDrew",
+  "First": "Maurice",
+  "Last": "JonesDrew",
+  "Position": "RB",
+  "Age": 21,
+  "Until": 2014,
+  "AP1": 1,
+  "PB": 3,
+  "YearsStarter": 4,
+  "CareerAverage": 72,
+  "DraftAverage": 72,
+  "Games": 126,
+  "PassComp": 1,
+  "PassAtt": 2,
+  "PassYards": 8,
+  "PassTDs": 1,
+  "Int": 1,
+  "RushAtt": 1847,
+  "RushYards": 8167,
+  "RushTDs": 68,
+  "Rec": 346,
+  "RecYards": 2944,
+  "RecTDs": 11,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "UCLA"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041828e"
+  },
+  "Round": 2,
+  "Pick": 61,
+  "Team": "DEN",
+  "Player": "Tony Scheffler",
+  "First": "Tony",
+  "Last": "Scheffler",
+  "Position": "TE",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 24,
+  "DraftAverage": 16,
+  "Games": 107,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 3,
+  "RushYards": 7,
+  "RushTDs": 0,
+  "Rec": 258,
+  "RecYards": 3207,
+  "RecTDs": 22,
+  "TackleSolo": 3,
+  "DefensiveInt": 1,
+  "Sacks": 0,
+  "College": "West. Michigan"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041828f"
+  },
+  "Round": 2,
+  "Pick": 62,
+  "Team": "IND",
+  "Player": "Tim Jennings",
+  "First": "Tim",
+  "Last": "Jennings",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 5,
+  "CareerAverage": 43,
+  "DraftAverage": 9,
+  "Games": 137,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 396,
+  "DefensiveInt": 20,
+  "Sacks": 0,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418290"
+  },
+  "Round": 2,
+  "Pick": 63,
+  "Team": "SEA",
+  "Player": "Darryl Tapp",
+  "First": "Darryl",
+  "Last": "Tapp",
+  "Position": "DE",
+  "Age": 21,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 30,
+  "DraftAverage": 21,
+  "Games": 165,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 262,
+  "DefensiveInt": 2,
+  "Sacks": 29,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418291"
+  },
+  "Round": 2,
+  "Pick": 64,
+  "Team": "MIN",
+  "Player": "Tarvaris Jackson",
+  "First": "Tarvaris",
+  "Last": "Jackson",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 21,
+  "DraftAverage": 12,
+  "Games": 59,
+  "PassComp": 640,
+  "PassAtt": 1073,
+  "PassYards": 7263,
+  "PassTDs": 39,
+  "Int": 35,
+  "RushAtt": 171,
+  "RushYards": 636,
+  "RushTDs": 6,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Alabama St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418292"
+  },
+  "Round": 3,
+  "Pick": 65,
+  "Team": "HOU",
+  "Player": "Charles Spencer",
+  "First": "Charles",
+  "Last": "Spencer",
+  "Position": "G",
+  "Age": 24,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Pittsburgh"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418293"
+  },
+  "Round": 3,
+  "Pick": 66,
+  "Team": "HOU",
+  "Player": "Eric Winston",
+  "First": "Eric",
+  "Last": "Winston",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 61,
+  "DraftAverage": 48,
+  "Games": 165,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418294"
+  },
+  "Round": 3,
+  "Pick": 67,
+  "Team": "GNB",
+  "Player": "Abdul Hodge",
+  "First": "Abdul",
+  "Last": "Hodge",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 1,
+  "Games": 35,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 25,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Iowa"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418295"
+  },
+  "Round": 3,
+  "Pick": 68,
+  "Team": "STL",
+  "Player": "Claude Wroten",
+  "First": "Claude",
+  "Last": "Wroten",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 26,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 21,
+  "DefensiveInt": 0,
+  "Sacks": 1.5,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418296"
+  },
+  "Round": 3,
+  "Pick": 69,
+  "Team": "OAK",
+  "Player": "Paul McQuistan",
+  "First": "Paul",
+  "Last": "McQuistan",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 23,
+  "DraftAverage": 4,
+  "Games": 97,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Weber St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418297"
+  },
+  "Round": 3,
+  "Pick": 70,
+  "Team": "BUF",
+  "Player": "Ashton Youboty",
+  "First": "Ashton",
+  "Last": "Youboty",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 8,
+  "DraftAverage": 5,
+  "Games": 49,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 73,
+  "DefensiveInt": 2,
+  "Sacks": 2,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418298"
+  },
+  "Round": 3,
+  "Pick": 71,
+  "Team": "PHI",
+  "Player": "Chris Gocong",
+  "First": "Chris",
+  "Last": "Gocong",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 5,
+  "CareerAverage": 30,
+  "DraftAverage": 16,
+  "Games": 79,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 228,
+  "DefensiveInt": 0,
+  "Sacks": 9.5,
+  "College": "Cal Poly-San Luis Obispo"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418299"
+  },
+  "Round": 3,
+  "Pick": 72,
+  "Team": "ARI",
+  "Player": "Leonard Pope",
+  "First": "Leonard",
+  "Last": "Pope",
+  "Position": "TE",
+  "Age": 22,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 6,
+  "DraftAverage": 4,
+  "Games": 103,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 105,
+  "RecYards": 982,
+  "RecTDs": 11,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041829a"
+  },
+  "Round": 3,
+  "Pick": 73,
+  "Team": "CHI",
+  "Player": "Dusty Dvoracek",
+  "First": "Dusty",
+  "Last": "Dvoracek",
+  "Position": "DT",
+  "Age": 25,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 6,
+  "DraftAverage": 6,
+  "Games": 13,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 24,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oklahoma"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041829b"
+  },
+  "Round": 3,
+  "Pick": 74,
+  "Team": "DET",
+  "Player": "Brian Calhoun",
+  "First": "Brian",
+  "Last": "Calhoun",
+  "Position": "RB",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 11,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 14,
+  "RushYards": 54,
+  "RushTDs": 0,
+  "Rec": 7,
+  "RecYards": 55,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Wisconsin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041829c"
+  },
+  "Round": 3,
+  "Pick": 75,
+  "Team": "GNB",
+  "Player": "Jason Spitz",
+  "First": "Jason",
+  "Last": "Spitz",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 24,
+  "DraftAverage": 24,
+  "Games": 75,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Louisville"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041829d"
+  },
+  "Round": 3,
+  "Pick": 76,
+  "Team": "NYJ",
+  "Player": "Anthony Schlegel",
+  "First": "Anthony",
+  "Last": "Schlegel",
+  "Position": "LB",
+  "Age": 25,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 0,
+  "Games": 17,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 21,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041829e"
+  },
+  "Round": 3,
+  "Pick": 77,
+  "Team": "STL",
+  "Player": "Jon Alston",
+  "First": "Jon",
+  "Last": "Alston",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 6,
+  "DraftAverage": 0,
+  "Games": 39,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 22,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 51,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Stanford"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041829f"
+  },
+  "Round": 3,
+  "Pick": 78,
+  "Team": "CLE",
+  "Player": "Travis Wilson",
+  "First": "Travis",
+  "Last": "Wilson",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 4,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 2,
+  "RecYards": 32,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oklahoma"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a0"
+  },
+  "Round": 3,
+  "Pick": 79,
+  "Team": "ATL",
+  "Player": "Jerious Norwood",
+  "First": "Jerious",
+  "Last": "Norwood",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 20,
+  "DraftAverage": 20,
+  "Games": 66,
+  "PassComp": 0,
+  "PassAtt": 2,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 1,
+  "RushAtt": 399,
+  "RushYards": 2056,
+  "RushTDs": 7,
+  "Rec": 96,
+  "RecYards": 912,
+  "RecTDs": 3,
+  "TackleSolo": 6,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Mississippi St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a1"
+  },
+  "Round": 3,
+  "Pick": 80,
+  "Team": "JAX",
+  "Player": "Clint Ingram",
+  "First": "Clint",
+  "Last": "Ingram",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 21,
+  "DraftAverage": 21,
+  "Games": 56,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 158,
+  "DefensiveInt": 2,
+  "Sacks": 5.5,
+  "College": "Oklahoma"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a2"
+  },
+  "Round": 3,
+  "Pick": 81,
+  "Team": "SDG",
+  "Player": "Charlie Whitehurst",
+  "First": "Charlie",
+  "Last": "Whitehurst",
+  "Position": "QB",
+  "Age": 24,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 7,
+  "DraftAverage": 0,
+  "Games": 26,
+  "PassComp": 219,
+  "PassAtt": 396,
+  "PassYards": 2463,
+  "PassTDs": 11,
+  "Int": 8,
+  "RushAtt": 56,
+  "RushYards": 156,
+  "RushTDs": 2,
+  "Rec": 0,
+  "RecYards": 10,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Clemson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a3"
+  },
+  "Round": 3,
+  "Pick": 82,
+  "Team": "MIA",
+  "Player": "Derek Hagan",
+  "First": "Derek",
+  "Last": "Hagan",
+  "Position": "WR",
+  "Age": 21,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 12,
+  "DraftAverage": 4,
+  "Games": 100,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 148,
+  "RecYards": 1734,
+  "RecTDs": 7,
+  "TackleSolo": 19,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Arizona St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a4"
+  },
+  "Round": 3,
+  "Pick": 83,
+  "Team": "PIT",
+  "Player": "Anthony Smith",
+  "First": "Anthony",
+  "Last": "Smith",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 12,
+  "DraftAverage": 8,
+  "Games": 76,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 146,
+  "DefensiveInt": 7,
+  "Sacks": 0,
+  "College": "Syracuse"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a5"
+  },
+  "Round": 3,
+  "Pick": 84,
+  "Team": "SFO",
+  "Player": "Brandon Williams",
+  "First": "Brandon",
+  "Last": "Williams",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 23,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 2,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Wisconsin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a6"
+  },
+  "Round": 3,
+  "Pick": 85,
+  "Team": "KAN",
+  "Player": "Brodie Croyle",
+  "First": "Brodie",
+  "Last": "Croyle",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 18,
+  "PassComp": 181,
+  "PassAtt": 319,
+  "PassYards": 1669,
+  "PassTDs": 8,
+  "Int": 9,
+  "RushAtt": 10,
+  "RushYards": 15,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Alabama"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a7"
+  },
+  "Round": 3,
+  "Pick": 86,
+  "Team": "NWE",
+  "Player": "David Thomas",
+  "First": "David",
+  "Last": "Thomas",
+  "Position": "TE",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 9,
+  "DraftAverage": 3,
+  "Games": 80,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 102,
+  "RecYards": 938,
+  "RecTDs": 8,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Texas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a8"
+  },
+  "Round": 3,
+  "Pick": 87,
+  "Team": "BAL",
+  "Player": "David Pittman",
+  "First": "David",
+  "Last": "Pittman",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 7,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 9,
+  "DefensiveInt": 2,
+  "Sacks": 0,
+  "College": "NW State (LA)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182a9"
+  },
+  "Round": 3,
+  "Pick": 88,
+  "Team": "CAR",
+  "Player": "James Anderson",
+  "First": "James",
+  "Last": "Anderson",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 31,
+  "DraftAverage": 25,
+  "Games": 123,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 421,
+  "DefensiveInt": 3,
+  "Sacks": 12,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182aa"
+  },
+  "Round": 3,
+  "Pick": 89,
+  "Team": "CAR",
+  "Player": "Rashad Butler",
+  "First": "Rashad",
+  "Last": "Butler",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 6,
+  "DraftAverage": 0,
+  "Games": 51,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ab"
+  },
+  "Round": 3,
+  "Pick": 90,
+  "Team": "TAM",
+  "Player": "Maurice Stovall",
+  "First": "Maurice",
+  "Last": "Stovall",
+  "Position": "WR",
+  "Age": 21,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 5,
+  "Games": 81,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 2,
+  "RushYards": 29,
+  "RushTDs": 0,
+  "Rec": 52,
+  "RecYards": 668,
+  "RecTDs": 3,
+  "TackleSolo": 37,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Notre Dame"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ac"
+  },
+  "Round": 3,
+  "Pick": 91,
+  "Team": "CIN",
+  "Player": "Frostee Rucker",
+  "First": "Frostee",
+  "Last": "Rucker",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2018,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 5,
+  "CareerAverage": 41,
+  "DraftAverage": 10,
+  "Games": 157,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 201,
+  "DefensiveInt": 1,
+  "Sacks": 21.5,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ad"
+  },
+  "Round": 3,
+  "Pick": 92,
+  "Team": "DAL",
+  "Player": "Jason Hatcher",
+  "First": "Jason",
+  "Last": "Hatcher",
+  "Position": "DE",
+  "Age": 24,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 5,
+  "CareerAverage": 34,
+  "DraftAverage": 23,
+  "Games": 147,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 177,
+  "DefensiveInt": 1,
+  "Sacks": 34.5,
+  "College": "Grambling St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ae"
+  },
+  "Round": 3,
+  "Pick": 93,
+  "Team": "STL",
+  "Player": "Dominique Byrd",
+  "First": "Dominique",
+  "Last": "Byrd",
+  "Position": "TE",
+  "Age": 22,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 17,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 6,
+  "RecYards": 83,
+  "RecTDs": 1,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182af"
+  },
+  "Round": 3,
+  "Pick": 94,
+  "Team": "IND",
+  "Player": "Freddy Keiaho",
+  "First": "Freddy",
+  "Last": "Keiaho",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 15,
+  "DraftAverage": 15,
+  "Games": 55,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 189,
+  "DefensiveInt": 1,
+  "Sacks": 1.5,
+  "College": "San Diego St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b0"
+  },
+  "Round": 3,
+  "Pick": 95,
+  "Team": "PIT",
+  "Player": "Willie Reid",
+  "First": "Willie",
+  "Last": "Reid",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 7,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 4,
+  "RecYards": 54,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b1"
+  },
+  "Round": 3,
+  "Pick": 96,
+  "Team": "NYG",
+  "Player": "Gerris Wilkinson",
+  "First": "Gerris",
+  "Last": "Wilkinson",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 6,
+  "DraftAverage": 6,
+  "Games": 58,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 54,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b2"
+  },
+  "Round": 3,
+  "Pick": 97,
+  "Team": "NYJ",
+  "Player": "Eric Smith",
+  "First": "Eric",
+  "Last": "Smith",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 16,
+  "DraftAverage": 16,
+  "Games": 96,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": 27,
+  "RecTDs": 0,
+  "TackleSolo": 225,
+  "DefensiveInt": 6,
+  "Sacks": 3.5,
+  "College": "Michigan St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b3"
+  },
+  "Round": 4,
+  "Pick": 98,
+  "Team": "HOU",
+  "Player": "Owen Daniels",
+  "First": "Owen",
+  "Last": "Daniels",
+  "Position": "TE",
+  "Age": 23,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 2,
+  "YearsStarter": 9,
+  "CareerAverage": 41,
+  "DraftAverage": 35,
+  "Games": 131,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 479,
+  "RecYards": 5661,
+  "RecTDs": 36,
+  "TackleSolo": 2,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Wisconsin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b4"
+  },
+  "Round": 4,
+  "Pick": 99,
+  "Team": "PHI",
+  "Player": "Max JeanGilles",
+  "First": "Max",
+  "Last": "JeanGilles",
+  "Position": "G",
+  "Age": 22,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 14,
+  "DraftAverage": 14,
+  "Games": 42,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b5"
+  },
+  "Round": 4,
+  "Pick": 100,
+  "Team": "SFO",
+  "Player": "Michael Robinson",
+  "First": "Michael",
+  "Last": "Robinson",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 0,
+  "CareerAverage": 7,
+  "DraftAverage": 4,
+  "Games": 112,
+  "PassComp": 1,
+  "PassAtt": 2,
+  "PassYards": 28,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 115,
+  "RushYards": 422,
+  "RushTDs": 2,
+  "Rec": 75,
+  "RecYards": 610,
+  "RecTDs": 3,
+  "TackleSolo": 55,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Penn St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b6"
+  },
+  "Round": 4,
+  "Pick": 101,
+  "Team": "OAK",
+  "Player": "Darnell Bing",
+  "First": "Darnell",
+  "Last": "Bing",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 5,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 4,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b7"
+  },
+  "Round": 4,
+  "Pick": 102,
+  "Team": "TEN",
+  "Player": "Calvin Lowry",
+  "First": "Calvin",
+  "Last": "Lowry",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 7,
+  "DraftAverage": 6,
+  "Games": 48,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 68,
+  "DefensiveInt": 2,
+  "Sacks": 0,
+  "College": "Penn St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b8"
+  },
+  "Round": 4,
+  "Pick": 103,
+  "Team": "NYJ",
+  "Player": "Brad Smith",
+  "First": "Brad",
+  "Last": "Smith",
+  "Position": "QB",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 17,
+  "DraftAverage": 11,
+  "Games": 127,
+  "PassComp": 4,
+  "PassAtt": 10,
+  "PassYards": 51,
+  "PassTDs": 1,
+  "Int": 2,
+  "RushAtt": 134,
+  "RushYards": 972,
+  "RushTDs": 4,
+  "Rec": 104,
+  "RecYards": 987,
+  "RecTDs": 5,
+  "TackleSolo": 68,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Missouri"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182b9"
+  },
+  "Round": 4,
+  "Pick": 104,
+  "Team": "GNB",
+  "Player": "Cory Rodgers",
+  "First": "Cory",
+  "Last": "Rodgers",
+  "Position": "WR",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "TCU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ba"
+  },
+  "Round": 4,
+  "Pick": 105,
+  "Team": "BUF",
+  "Player": "Ko Simpson",
+  "First": "Ko",
+  "Last": "Simpson",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 13,
+  "DraftAverage": 11,
+  "Games": 41,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 129,
+  "DefensiveInt": 3,
+  "Sacks": 1,
+  "College": "South Carolina"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182bb"
+  },
+  "Round": 4,
+  "Pick": 106,
+  "Team": "NWE",
+  "Player": "Garrett Mills",
+  "First": "Garrett",
+  "Last": "Mills",
+  "Position": "FB",
+  "Age": 22,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 0,
+  "Games": 16,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 9,
+  "RecYards": 110,
+  "RecTDs": 0,
+  "TackleSolo": 4,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Tulsa"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182bc"
+  },
+  "Round": 4,
+  "Pick": 107,
+  "Team": "ARI",
+  "Player": "Gabe Watson",
+  "First": "Gabe",
+  "Last": "Watson",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 12,
+  "DraftAverage": 12,
+  "Games": 62,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 81,
+  "DefensiveInt": 0,
+  "Sacks": 2,
+  "College": "Michigan"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182bd"
+  },
+  "Round": 4,
+  "Pick": 108,
+  "Team": "NOR",
+  "Player": "Jahri Evans",
+  "First": "Jahri",
+  "Last": "Evans",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2017,
+  "AP1": 4,
+  "PB": 6,
+  "YearsStarter": 12,
+  "CareerAverage": 106,
+  "DraftAverage": 103,
+  "Games": 183,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Bloomsburg"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182be"
+  },
+  "Round": 4,
+  "Pick": 109,
+  "Team": "PHI",
+  "Player": "Jason Avant",
+  "First": "Jason",
+  "Last": "Avant",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 30,
+  "DraftAverage": 26,
+  "Games": 148,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 2,
+  "RushYards": 2,
+  "RushTDs": 0,
+  "Rec": 346,
+  "RecYards": 4118,
+  "RecTDs": 13,
+  "TackleSolo": 22,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Michigan"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182bf"
+  },
+  "Round": 4,
+  "Pick": 110,
+  "Team": "CLE",
+  "Player": "Leon Williams",
+  "First": "Leon",
+  "Last": "Williams",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 10,
+  "DraftAverage": 9,
+  "Games": 61,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 129,
+  "DefensiveInt": 0,
+  "Sacks": 5,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c0"
+  },
+  "Round": 4,
+  "Pick": 111,
+  "Team": "BAL",
+  "Player": "Demetrius Williams",
+  "First": "Demetrius",
+  "Last": "Williams",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 9,
+  "DraftAverage": 9,
+  "Games": 46,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 63,
+  "RecYards": 1008,
+  "RecTDs": 4,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oregon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c1"
+  },
+  "Round": 4,
+  "Pick": 112,
+  "Team": "CLE",
+  "Player": "Isaac Sowells",
+  "First": "Isaac",
+  "Last": "Sowells",
+  "Position": "T",
+  "Age": 24,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 17,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Indiana"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c2"
+  },
+  "Round": 4,
+  "Pick": 113,
+  "Team": "STL",
+  "Player": "Victor Adeyanju",
+  "First": "Victor",
+  "Last": "Adeyanju",
+  "Position": "DE",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 13,
+  "DraftAverage": 13,
+  "Games": 53,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 109,
+  "DefensiveInt": 0,
+  "Sacks": 3,
+  "College": "Indiana"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c3"
+  },
+  "Round": 4,
+  "Pick": 114,
+  "Team": "MIA",
+  "Player": "Joe Toledo",
+  "First": "Joe",
+  "Last": "Toledo",
+  "Position": "T",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Washington"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c4"
+  },
+  "Round": 4,
+  "Pick": 115,
+  "Team": "GNB",
+  "Player": "Will Blackmon",
+  "First": "Will",
+  "Last": "Blackmon",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 18,
+  "DraftAverage": 5,
+  "Games": 96,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 159,
+  "DefensiveInt": 4,
+  "Sacks": 3.5,
+  "College": "Boston Col."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c5"
+  },
+  "Round": 4,
+  "Pick": 116,
+  "Team": "TEN",
+  "Player": "Stephen Tulloch",
+  "First": "Stephen",
+  "Last": "Tulloch",
+  "Position": "LB",
+  "Age": 21,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 50,
+  "DraftAverage": 21,
+  "Games": 159,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 683,
+  "DefensiveInt": 5,
+  "Sacks": 14.5,
+  "College": "North Carolina St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c6"
+  },
+  "Round": 4,
+  "Pick": 117,
+  "Team": "NYJ",
+  "Player": "Leon Washington",
+  "First": "Leon",
+  "Last": "Washington",
+  "Position": "RB",
+  "Age": 24,
+  "Until": 2014,
+  "AP1": 1,
+  "PB": 2,
+  "YearsStarter": 1,
+  "CareerAverage": 30,
+  "DraftAverage": 23,
+  "Games": 126,
+  "PassComp": 1,
+  "PassAtt": 1,
+  "PassYards": 36,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 487,
+  "RushYards": 2271,
+  "RushTDs": 16,
+  "Rec": 168,
+  "RecYards": 1286,
+  "RecTDs": 4,
+  "TackleSolo": 5,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c7"
+  },
+  "Round": 4,
+  "Pick": 118,
+  "Team": "NWE",
+  "Player": "Stephen Gostkowski",
+  "First": "Stephen",
+  "Last": "Gostkowski",
+  "Position": "K",
+  "Age": 22,
+  "Until": 2019,
+  "AP1": 2,
+  "PB": 4,
+  "YearsStarter": 0,
+  "CareerAverage": 36,
+  "DraftAverage": 36,
+  "Games": 204,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 18,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Memphis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c8"
+  },
+  "Round": 4,
+  "Pick": 119,
+  "Team": "DEN",
+  "Player": "Brandon Marshall",
+  "First": "Brandon",
+  "Last": "Marshall",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2018,
+  "AP1": 1,
+  "PB": 6,
+  "YearsStarter": 10,
+  "CareerAverage": 84,
+  "DraftAverage": 27,
+  "Games": 179,
+  "PassComp": 0,
+  "PassAtt": 1,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 20,
+  "RushYards": 118,
+  "RushTDs": 0,
+  "Rec": 970,
+  "RecYards": 12351,
+  "RecTDs": 83,
+  "TackleSolo": 6,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Central Florida"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182c9"
+  },
+  "Round": 4,
+  "Pick": 120,
+  "Team": "CHI",
+  "Player": "Jamar Williams",
+  "First": "Jamar",
+  "Last": "Williams",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 5,
+  "Games": 54,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 70,
+  "DefensiveInt": 0,
+  "Sacks": 1,
+  "College": "Arizona St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ca"
+  },
+  "Round": 4,
+  "Pick": 121,
+  "Team": "CAR",
+  "Player": "Nate Salley",
+  "First": "Nate",
+  "Last": "Salley",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 24,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 9,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182cb"
+  },
+  "Round": 4,
+  "Pick": 122,
+  "Team": "TAM",
+  "Player": "Alan Zemaitis",
+  "First": "Alan",
+  "Last": "Zemaitis",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Penn St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182cc"
+  },
+  "Round": 4,
+  "Pick": 123,
+  "Team": "CIN",
+  "Player": "Domata Peko",
+  "First": "Domata",
+  "Last": "Peko",
+  "Position": "DT",
+  "Age": 21,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 12,
+  "CareerAverage": 67,
+  "DraftAverage": 60,
+  "Games": 208,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 315,
+  "DefensiveInt": 0,
+  "Sacks": 20,
+  "College": "Michigan St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182cd"
+  },
+  "Round": 4,
+  "Pick": 124,
+  "Team": "NYG",
+  "Player": "Barry Cofield",
+  "First": "Barry",
+  "Last": "Cofield",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 8,
+  "CareerAverage": 44,
+  "DraftAverage": 29,
+  "Games": 138,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 208,
+  "DefensiveInt": 0,
+  "Sacks": 19.5,
+  "College": "Northwestern"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ce"
+  },
+  "Round": 4,
+  "Pick": 125,
+  "Team": "DAL",
+  "Player": "Skyler Green",
+  "First": "Skyler",
+  "Last": "Green",
+  "Position": "WR",
+  "Age": 21,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 11,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 1,
+  "RushTDs": 0,
+  "Rec": 3,
+  "RecYards": 33,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182cf"
+  },
+  "Round": 4,
+  "Pick": 126,
+  "Team": "DEN",
+  "Player": "Elvis Dumervil",
+  "First": "Elvis",
+  "Last": "Dumervil",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2017,
+  "AP1": 2,
+  "PB": 5,
+  "YearsStarter": 6,
+  "CareerAverage": 64,
+  "DraftAverage": 42,
+  "Games": 162,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 263,
+  "DefensiveInt": 1,
+  "Sacks": 105.5,
+  "College": "Louisville"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d0"
+  },
+  "Round": 4,
+  "Pick": 127,
+  "Team": "MIN",
+  "Player": "Ray Edwards",
+  "First": "Ray",
+  "Last": "Edwards",
+  "Position": "DE",
+  "Age": 21,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 5,
+  "CareerAverage": 37,
+  "DraftAverage": 27,
+  "Games": 97,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 168,
+  "DefensiveInt": 0,
+  "Sacks": 33,
+  "College": "Purdue"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d1"
+  },
+  "Round": 4,
+  "Pick": 128,
+  "Team": "SEA",
+  "Player": "Rob Sims",
+  "First": "Rob",
+  "Last": "Sims",
+  "Position": "G",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 44,
+  "DraftAverage": 11,
+  "Games": 125,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Ohio St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d2"
+  },
+  "Round": 4,
+  "Pick": 129,
+  "Team": "NYG",
+  "Player": "Guy Whimper",
+  "First": "Guy",
+  "Last": "Whimper",
+  "Position": "DE",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 13,
+  "DraftAverage": 2,
+  "Games": 78,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 3,
+  "RecYards": 28,
+  "RecTDs": 1,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "East Carolina"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d3"
+  },
+  "Round": 4,
+  "Pick": 130,
+  "Team": "DEN",
+  "Player": "Domenik Hixon",
+  "First": "Domenik",
+  "Last": "Hixon",
+  "Position": "WR",
+  "Age": 21,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 17,
+  "DraftAverage": 0,
+  "Games": 76,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 3,
+  "RushYards": 18,
+  "RushTDs": 0,
+  "Rec": 109,
+  "RecYards": 1460,
+  "RecTDs": 7,
+  "TackleSolo": 27,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Akron"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d4"
+  },
+  "Round": 4,
+  "Pick": 131,
+  "Team": "PIT",
+  "Player": "Willie Colon",
+  "First": "Willie",
+  "Last": "Colon",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 43,
+  "DraftAverage": 33,
+  "Games": 100,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Hofstra"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d5"
+  },
+  "Round": 4,
+  "Pick": 132,
+  "Team": "BAL",
+  "Player": "PJ Daniels",
+  "First": "PJ",
+  "Last": "Daniels",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 1,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d6"
+  },
+  "Round": 4,
+  "Pick": 133,
+  "Team": "PIT",
+  "Player": "Orien Harris",
+  "First": "Orien",
+  "Last": "Harris",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 0,
+  "Games": 20,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 9,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d7"
+  },
+  "Round": 5,
+  "Pick": 134,
+  "Team": "BUF",
+  "Player": "Kyle Williams",
+  "First": "Kyle",
+  "Last": "Williams",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2018,
+  "AP1": 0,
+  "PB": 6,
+  "YearsStarter": 11,
+  "CareerAverage": 77,
+  "DraftAverage": 77,
+  "Games": 183,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 1,
+  "RushTDs": 1,
+  "Rec": 1,
+  "RecYards": 9,
+  "RecTDs": 0,
+  "TackleSolo": 387,
+  "DefensiveInt": 1,
+  "Sacks": 48.5,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d8"
+  },
+  "Round": 5,
+  "Pick": 135,
+  "Team": "NOR",
+  "Player": "Rob Ninkovich",
+  "First": "Rob",
+  "Last": "Ninkovich",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 50,
+  "DraftAverage": 0,
+  "Games": 131,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 273,
+  "DefensiveInt": 5,
+  "Sacks": 46,
+  "College": "Purdue"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182d9"
+  },
+  "Round": 5,
+  "Pick": 136,
+  "Team": "NWE",
+  "Player": "Ryan OCallaghan",
+  "First": "Ryan",
+  "Last": "OCallaghan",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 12,
+  "DraftAverage": 7,
+  "Games": 51,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "California"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182da"
+  },
+  "Round": 5,
+  "Pick": 137,
+  "Team": "TEN",
+  "Player": "Terna Nande",
+  "First": "Terna",
+  "Last": "Nande",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 1,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (OH)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182db"
+  },
+  "Round": 5,
+  "Pick": 138,
+  "Team": "DAL",
+  "Player": "Pat Watkins",
+  "First": "Pat",
+  "Last": "Watkins",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 7,
+  "DraftAverage": 7,
+  "Games": 53,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 104,
+  "DefensiveInt": 4,
+  "Sacks": 0,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182dc"
+  },
+  "Round": 5,
+  "Pick": 139,
+  "Team": "ATL",
+  "Player": "Quinn Ojinnaka",
+  "First": "Quinn",
+  "Last": "Ojinnaka",
+  "Position": "G",
+  "Age": 22,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 12,
+  "DraftAverage": 7,
+  "Games": 62,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Syracuse"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182dd"
+  },
+  "Round": 5,
+  "Pick": 140,
+  "Team": "SFO",
+  "Player": "Parys Haralson",
+  "First": "Parys",
+  "Last": "Haralson",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 37,
+  "DraftAverage": 29,
+  "Games": 118,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 190,
+  "DefensiveInt": 0,
+  "Sacks": 28,
+  "College": "Tennessee"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182de"
+  },
+  "Round": 5,
+  "Pick": 141,
+  "Team": "DET",
+  "Player": "Jonathan Scott",
+  "First": "Jonathan",
+  "Last": "Scott",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 20,
+  "DraftAverage": 4,
+  "Games": 71,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Texas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182df"
+  },
+  "Round": 5,
+  "Pick": 142,
+  "Team": "ARI",
+  "Player": "Brandon Johnson",
+  "First": "Brandon",
+  "Last": "Johnson",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 13,
+  "DraftAverage": 0,
+  "Games": 87,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 133,
+  "DefensiveInt": 3,
+  "Sacks": 3.5,
+  "College": "Louisville"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e0"
+  },
+  "Round": 5,
+  "Pick": 143,
+  "Team": "BUF",
+  "Player": "Brad Butler",
+  "First": "Brad",
+  "Last": "Butler",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 12,
+  "DraftAverage": 12,
+  "Games": 33,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e1"
+  },
+  "Round": 5,
+  "Pick": 144,
+  "Team": "STL",
+  "Player": "Marques Hagans",
+  "First": "Marques",
+  "Last": "Hagans",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 10,
+  "PassComp": 1,
+  "PassAtt": 1,
+  "PassYards": 5,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 3,
+  "RushYards": -2,
+  "RushTDs": 0,
+  "Rec": 9,
+  "RecYards": 108,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e2"
+  },
+  "Round": 5,
+  "Pick": 145,
+  "Team": "CLE",
+  "Player": "Jerome Harrison",
+  "First": "Jerome",
+  "Last": "Harrison",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 13,
+  "DraftAverage": 11,
+  "Games": 63,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 356,
+  "RushYards": 1681,
+  "RushTDs": 7,
+  "Rec": 70,
+  "RecYards": 490,
+  "RecTDs": 3,
+  "TackleSolo": 4,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Washington St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e3"
+  },
+  "Round": 5,
+  "Pick": 146,
+  "Team": "BAL",
+  "Player": "Dawan Landry",
+  "First": "Dawan",
+  "Last": "Landry",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 8,
+  "CareerAverage": 43,
+  "DraftAverage": 21,
+  "Games": 130,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 562,
+  "DefensiveInt": 13,
+  "Sacks": 8,
+  "College": "Georgia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e4"
+  },
+  "Round": 5,
+  "Pick": 147,
+  "Team": "PHI",
+  "Player": "Jeremy Bloom",
+  "First": "Jeremy",
+  "Last": "Bloom",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Colorado"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e5"
+  },
+  "Round": 5,
+  "Pick": 148,
+  "Team": "GNB",
+  "Player": "Ingle Martin",
+  "First": "Ingle",
+  "Last": "Martin",
+  "Position": "QB",
+  "Age": 24,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 1,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 2,
+  "RushYards": -5,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Furman"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e6"
+  },
+  "Round": 5,
+  "Pick": 149,
+  "Team": "MIN",
+  "Player": "Greg Blue",
+  "First": "Greg",
+  "Last": "Blue",
+  "Position": "DB",
+  "Age": 24,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 20,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 18,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e7"
+  },
+  "Round": 5,
+  "Pick": 150,
+  "Team": "NYJ",
+  "Player": "Jason Pociask",
+  "First": "Jason",
+  "Last": "Pociask",
+  "Position": "TE",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 4,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": 7,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Wisconsin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e8"
+  },
+  "Round": 5,
+  "Pick": 151,
+  "Team": "SDG",
+  "Player": "Tim Dobbins",
+  "First": "Tim",
+  "Last": "Dobbins",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 19,
+  "DraftAverage": 9,
+  "Games": 110,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 198,
+  "DefensiveInt": 3,
+  "Sacks": 2,
+  "College": "Iowa St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182e9"
+  },
+  "Round": 5,
+  "Pick": 152,
+  "Team": "CLE",
+  "Player": "DeMario Minter",
+  "First": "DeMario",
+  "Last": "Minter",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ea"
+  },
+  "Round": 5,
+  "Pick": 153,
+  "Team": "WAS",
+  "Player": "Anthony Montgomery",
+  "First": "Anthony",
+  "Last": "Montgomery",
+  "Position": "NT",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 14,
+  "DraftAverage": 14,
+  "Games": 42,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 55,
+  "DefensiveInt": 0,
+  "Sacks": 3,
+  "College": "Minnesota"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182eb"
+  },
+  "Round": 5,
+  "Pick": 154,
+  "Team": "KAN",
+  "Player": "Marcus Maxey",
+  "First": "Marcus",
+  "Last": "Maxey",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Miami (FL)"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ec"
+  },
+  "Round": 5,
+  "Pick": 155,
+  "Team": "CAR",
+  "Player": "Jeff King",
+  "First": "Jeff",
+  "Last": "King",
+  "Position": "TE",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 10,
+  "DraftAverage": 7,
+  "Games": 108,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 156,
+  "RecYards": 1323,
+  "RecTDs": 12,
+  "TackleSolo": 7,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ed"
+  },
+  "Round": 5,
+  "Pick": 156,
+  "Team": "TAM",
+  "Player": "Julian Jenkins",
+  "First": "Julian",
+  "Last": "Jenkins",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 12,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 6,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Stanford"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ee"
+  },
+  "Round": 5,
+  "Pick": 157,
+  "Team": "CIN",
+  "Player": "AJ Nicholson",
+  "First": "AJ",
+  "Last": "Nicholson",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Florida St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ef"
+  },
+  "Round": 5,
+  "Pick": 158,
+  "Team": "NYG",
+  "Player": "Charlie Peprah",
+  "First": "Charlie",
+  "Last": "Peprah",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 11,
+  "DraftAverage": 0,
+  "Games": 74,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 142,
+  "DefensiveInt": 8,
+  "Sacks": 0,
+  "College": "Alabama"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f0"
+  },
+  "Round": 5,
+  "Pick": 159,
+  "Team": "CHI",
+  "Player": "Mark Anderson",
+  "First": "Mark",
+  "Last": "Anderson",
+  "Position": "DE",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 21,
+  "DraftAverage": 14,
+  "Games": 98,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 132,
+  "DefensiveInt": 0,
+  "Sacks": 36.5,
+  "College": "Alabama"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f1"
+  },
+  "Round": 5,
+  "Pick": 160,
+  "Team": "JAX",
+  "Player": "Brent Hawkins",
+  "First": "Brent",
+  "Last": "Hawkins",
+  "Position": "DE",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 3,
+  "DraftAverage": 3,
+  "Games": 20,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 19,
+  "DefensiveInt": 0,
+  "Sacks": 5.5,
+  "College": "Illinois St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f2"
+  },
+  "Round": 5,
+  "Pick": 161,
+  "Team": "DEN",
+  "Player": "Chris Kuper",
+  "First": "Chris",
+  "Last": "Kuper",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 5,
+  "CareerAverage": 32,
+  "DraftAverage": 32,
+  "Games": 90,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 7,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "North Dakota"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f3"
+  },
+  "Round": 5,
+  "Pick": 162,
+  "Team": "IND",
+  "Player": "Michael Toudouze",
+  "First": "Michael",
+  "Last": "Toudouze",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 9,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "TCU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f4"
+  },
+  "Round": 5,
+  "Pick": 163,
+  "Team": "SEA",
+  "Player": "David Kirtman",
+  "First": "David",
+  "Last": "Kirtman",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 7,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f5"
+  },
+  "Round": 5,
+  "Pick": 164,
+  "Team": "PIT",
+  "Player": "Omar Jacobs",
+  "First": "Omar",
+  "Last": "Jacobs",
+  "Position": "QB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Bowling Green"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f6"
+  },
+  "Round": 5,
+  "Pick": 165,
+  "Team": "GNB",
+  "Player": "Tony Moll",
+  "First": "Tony",
+  "Last": "Moll",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 13,
+  "DraftAverage": 10,
+  "Games": 63,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Nevada"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f7"
+  },
+  "Round": 5,
+  "Pick": 166,
+  "Team": "BAL",
+  "Player": "Quinn Sypniewski",
+  "First": "Quinn",
+  "Last": "Sypniewski",
+  "Position": "TE",
+  "Age": 24,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 31,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 36,
+  "RecYards": 261,
+  "RecTDs": 1,
+  "TackleSolo": 2,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Colorado"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f8"
+  },
+  "Round": 5,
+  "Pick": 167,
+  "Team": "PIT",
+  "Player": "Charles Davis",
+  "First": "Charles",
+  "Last": "Davis",
+  "Position": "TE",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Purdue"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182f9"
+  },
+  "Round": 5,
+  "Pick": 168,
+  "Team": "PHI",
+  "Player": "Omar Gaither",
+  "First": "Omar",
+  "Last": "Gaither",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 25,
+  "DraftAverage": 22,
+  "Games": 92,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 264,
+  "DefensiveInt": 2,
+  "Sacks": 6,
+  "College": "Tennessee"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182fa"
+  },
+  "Round": 5,
+  "Pick": 169,
+  "Team": "TEN",
+  "Player": "Jesse Mahelona",
+  "First": "Jesse",
+  "Last": "Mahelona",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 11,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 16,
+  "DefensiveInt": 0,
+  "Sacks": 1,
+  "College": "Tennessee"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182fb"
+  },
+  "Round": 6,
+  "Pick": 170,
+  "Team": "HOU",
+  "Player": "Wali Lundy",
+  "First": "Wali",
+  "Last": "Lundy",
+  "Position": "RB",
+  "Age": 22,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 5,
+  "DraftAverage": 5,
+  "Games": 14,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 124,
+  "RushYards": 476,
+  "RushTDs": 4,
+  "Rec": 33,
+  "RecYards": 204,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182fc"
+  },
+  "Round": 6,
+  "Pick": 171,
+  "Team": "NOR",
+  "Player": "Mike Hass",
+  "First": "Mike",
+  "Last": "Hass",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oregon St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182fd"
+  },
+  "Round": 6,
+  "Pick": 172,
+  "Team": "TEN",
+  "Player": "Jonathan Orr",
+  "First": "Jonathan",
+  "Last": "Orr",
+  "Position": "WR",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Wisconsin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182fe"
+  },
+  "Round": 6,
+  "Pick": 173,
+  "Team": "WAS",
+  "Player": "Reed Doughty",
+  "First": "Reed",
+  "Last": "Doughty",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 20,
+  "DraftAverage": 20,
+  "Games": 107,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 336,
+  "DefensiveInt": 3,
+  "Sacks": 3.5,
+  "College": "Northern Colorado"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04182ff"
+  },
+  "Round": 6,
+  "Pick": 174,
+  "Team": "NOR",
+  "Player": "Josh Lay",
+  "First": "Josh",
+  "Last": "Lay",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Pittsburgh"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418300"
+  },
+  "Round": 6,
+  "Pick": 175,
+  "Team": "SFO",
+  "Player": "Delanie Walker",
+  "First": "Delanie",
+  "Last": "Walker",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 3,
+  "YearsStarter": 7,
+  "CareerAverage": 39,
+  "DraftAverage": 8,
+  "Games": 183,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 16,
+  "RushYards": 89,
+  "RushTDs": 1,
+  "Rec": 504,
+  "RecYards": 5888,
+  "RecTDs": 36,
+  "TackleSolo": 37,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Central Missouri St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418301"
+  },
+  "Round": 6,
+  "Pick": 176,
+  "Team": "OAK",
+  "Player": "Kevin Boothe",
+  "First": "Kevin",
+  "Last": "Boothe",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 26,
+  "DraftAverage": 2,
+  "Games": 114,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Cornell"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418302"
+  },
+  "Round": 6,
+  "Pick": 177,
+  "Team": "ARI",
+  "Player": "Jonathan Lewis",
+  "First": "Jonathan",
+  "Last": "Lewis",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 4,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 3,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418303"
+  },
+  "Round": 6,
+  "Pick": 178,
+  "Team": "BUF",
+  "Player": "Keith Ellison",
+  "First": "Keith",
+  "Last": "Ellison",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 19,
+  "DraftAverage": 19,
+  "Games": 58,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 6,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 164,
+  "DefensiveInt": 2,
+  "Sacks": 2,
+  "College": "Oregon St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418304"
+  },
+  "Round": 6,
+  "Pick": 179,
+  "Team": "DET",
+  "Player": "Dee McCann",
+  "First": "Dee",
+  "Last": "McCann",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "West Virginia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418305"
+  },
+  "Round": 6,
+  "Pick": 180,
+  "Team": "CLE",
+  "Player": "Lawrence Vickers",
+  "First": "Lawrence",
+  "Last": "Vickers",
+  "Position": "FB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 3,
+  "DraftAverage": 2,
+  "Games": 106,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 37,
+  "RushYards": 98,
+  "RushTDs": 0,
+  "Rec": 58,
+  "RecYards": 404,
+  "RecTDs": 3,
+  "TackleSolo": 13,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Colorado"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418306"
+  },
+  "Round": 6,
+  "Pick": 181,
+  "Team": "CLE",
+  "Player": "Babatunde Oshinowo",
+  "First": "Babatunde",
+  "Last": "Oshinowo",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 2,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Stanford"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418307"
+  },
+  "Round": 6,
+  "Pick": 182,
+  "Team": "DAL",
+  "Player": "Montavious Stanley",
+  "First": "Montavious",
+  "Last": "Stanley",
+  "Position": "DT",
+  "Age": 24,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 0,
+  "Games": 33,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 46,
+  "DefensiveInt": 0,
+  "Sacks": 1.5,
+  "College": "Louisville"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418308"
+  },
+  "Round": 6,
+  "Pick": 183,
+  "Team": "GNB",
+  "Player": "Johnny Jolly",
+  "First": "Johnny",
+  "Last": "Jolly",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 3,
+  "CareerAverage": 23,
+  "DraftAverage": 23,
+  "Games": 61,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 89,
+  "DefensiveInt": 1,
+  "Sacks": 3,
+  "College": "Texas A&M"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418309"
+  },
+  "Round": 6,
+  "Pick": 184,
+  "Team": "ATL",
+  "Player": "Adam Jennings",
+  "First": "Adam",
+  "Last": "Jennings",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 46,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": -4,
+  "RushTDs": 0,
+  "Rec": 6,
+  "RecYards": 62,
+  "RecTDs": 1,
+  "TackleSolo": 11,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Fresno St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041830a"
+  },
+  "Round": 6,
+  "Pick": 185,
+  "Team": "GNB",
+  "Player": "Tyrone Culver",
+  "First": "Tyrone",
+  "Last": "Culver",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 7,
+  "DraftAverage": 1,
+  "Games": 80,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 109,
+  "DefensiveInt": 2,
+  "Sacks": 1,
+  "College": "Fresno St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041830b"
+  },
+  "Round": 6,
+  "Pick": 186,
+  "Team": "KAN",
+  "Player": "Tre Stallings",
+  "First": "Tre",
+  "Last": "Stallings",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 1,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Mississippi St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041830c"
+  },
+  "Round": 6,
+  "Pick": 187,
+  "Team": "SDG",
+  "Player": "Jeromey Clary",
+  "First": "Jeromey",
+  "Last": "Clary",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 53,
+  "DraftAverage": 53,
+  "Games": 103,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": -8,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Kansas St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041830d"
+  },
+  "Round": 6,
+  "Pick": 188,
+  "Team": "SDG",
+  "Player": "Kurt Smith",
+  "First": "Kurt",
+  "Last": "Smith",
+  "Position": "K",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041830e"
+  },
+  "Round": 6,
+  "Pick": 189,
+  "Team": "NYJ",
+  "Player": "Drew Coleman",
+  "First": "Drew",
+  "Last": "Coleman",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 9,
+  "DraftAverage": 6,
+  "Games": 83,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 132,
+  "DefensiveInt": 4,
+  "Sacks": 8,
+  "College": "TCU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041830f"
+  },
+  "Round": 6,
+  "Pick": 190,
+  "Team": "KAN",
+  "Player": "Jeff Webb",
+  "First": "Jeff",
+  "Last": "Webb",
+  "Position": "WR",
+  "Age": 24,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 31,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 5,
+  "RushTDs": 0,
+  "Rec": 36,
+  "RecYards": 382,
+  "RecTDs": 1,
+  "TackleSolo": 6,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "San Diego St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418310"
+  },
+  "Round": 6,
+  "Pick": 191,
+  "Team": "NWE",
+  "Player": "Jeremy Mincey",
+  "First": "Jeremy",
+  "Last": "Mincey",
+  "Position": "DE",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 30,
+  "DraftAverage": 0,
+  "Games": 96,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 152,
+  "DefensiveInt": 1,
+  "Sacks": 26,
+  "College": "Florida"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418311"
+  },
+  "Round": 6,
+  "Pick": 192,
+  "Team": "SFO",
+  "Player": "Marcus Hudson",
+  "First": "Marcus",
+  "Last": "Hudson",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 4,
+  "Games": 62,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 71,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "North Carolina St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418312"
+  },
+  "Round": 6,
+  "Pick": 193,
+  "Team": "CIN",
+  "Player": "Reggie McNeal",
+  "First": "Reggie",
+  "Last": "McNeal",
+  "Position": "QB",
+  "Age": 22,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 7,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 8,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Texas A&M"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418313"
+  },
+  "Round": 6,
+  "Pick": 194,
+  "Team": "TAM",
+  "Player": "Bruce Gradkowski",
+  "First": "Bruce",
+  "Last": "Gradkowski",
+  "Position": "QB",
+  "Age": 23,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 8,
+  "DraftAverage": 3,
+  "Games": 37,
+  "PassComp": 375,
+  "PassAtt": 709,
+  "PassYards": 4057,
+  "PassTDs": 21,
+  "Int": 24,
+  "RushAtt": 88,
+  "RushYards": 329,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Toledo"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418314"
+  },
+  "Round": 6,
+  "Pick": 195,
+  "Team": "CHI",
+  "Player": "JD Runnels",
+  "First": "JD",
+  "Last": "Runnels",
+  "Position": "RB",
+  "Age": 22,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oklahoma"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418315"
+  },
+  "Round": 6,
+  "Pick": 196,
+  "Team": "WAS",
+  "Player": "Kedric Golston",
+  "First": "Kedric",
+  "Last": "Golston",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2016,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 27,
+  "DraftAverage": 27,
+  "Games": 142,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 137,
+  "DefensiveInt": 0,
+  "Sacks": 7,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418316"
+  },
+  "Round": 6,
+  "Pick": 197,
+  "Team": "SFO",
+  "Player": "Melvin Oliver",
+  "First": "Melvin",
+  "Last": "Oliver",
+  "Position": "DE",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 6,
+  "DraftAverage": 6,
+  "Games": 16,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 35,
+  "DefensiveInt": 0,
+  "Sacks": 1,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418317"
+  },
+  "Round": 6,
+  "Pick": 198,
+  "Team": "DEN",
+  "Player": "Greg Eslinger",
+  "First": "Greg",
+  "Last": "Eslinger",
+  "Position": "C",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Minnesota"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418318"
+  },
+  "Round": 6,
+  "Pick": 199,
+  "Team": "IND",
+  "Player": "Charlie Johnson",
+  "First": "Charlie",
+  "Last": "Johnson",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2014,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 8,
+  "CareerAverage": 56,
+  "DraftAverage": 33,
+  "Games": 134,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 1,
+  "RecYards": -2,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oklahoma St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418319"
+  },
+  "Round": 6,
+  "Pick": 200,
+  "Team": "CHI",
+  "Player": "Tyler Reed",
+  "First": "Tyler",
+  "Last": "Reed",
+  "Position": "G",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Penn St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041831a"
+  },
+  "Round": 6,
+  "Pick": 201,
+  "Team": "PIT",
+  "Player": "Marvin Philip",
+  "First": "Marvin",
+  "Last": "Philip",
+  "Position": "C",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "California"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041831b"
+  },
+  "Round": 6,
+  "Pick": 202,
+  "Team": "TAM",
+  "Player": "TJ Williams",
+  "First": "TJ",
+  "Last": "Williams",
+  "Position": "TE",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "North Carolina St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041831c"
+  },
+  "Round": 6,
+  "Pick": 203,
+  "Team": "BAL",
+  "Player": "Sam Koch",
+  "First": "Sam",
+  "Last": "Koch",
+  "Position": "P",
+  "Age": 24,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 1,
+  "YearsStarter": 0,
+  "CareerAverage": 24,
+  "DraftAverage": 24,
+  "Games": 224,
+  "PassComp": 6,
+  "PassAtt": 6,
+  "PassYards": 67,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 7,
+  "RushYards": 10,
+  "RushTDs": 1,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 15,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Nebraska"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041831d"
+  },
+  "Round": 6,
+  "Pick": 204,
+  "Team": "PHI",
+  "Player": "LaJuan Ramsey",
+  "First": "LaJuan",
+  "Last": "Ramsey",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 2,
+  "Games": 34,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 23,
+  "DefensiveInt": 1,
+  "Sacks": 1,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041831e"
+  },
+  "Round": 6,
+  "Pick": 205,
+  "Team": "NWE",
+  "Player": "Dan Stevenson",
+  "First": "Dan",
+  "Last": "Stevenson",
+  "Position": "G",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Notre Dame"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041831f"
+  },
+  "Round": 6,
+  "Pick": 206,
+  "Team": "NWE",
+  "Player": "Le Kevin Smith",
+  "First": "Le",
+  "Last": "Kevin",
+  "Position": "DT",
+  "Age": 24,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 3,
+  "Games": 45,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 19,
+  "DefensiveInt": 0,
+  "Sacks": 1,
+  "College": "Nebraska"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418320"
+  },
+  "Round": 6,
+  "Pick": 207,
+  "Team": "IND",
+  "Player": "Antoine Bethea",
+  "First": "Antoine",
+  "Last": "Bethea",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2019,
+  "AP1": 0,
+  "PB": 3,
+  "YearsStarter": 12,
+  "CareerAverage": 63,
+  "DraftAverage": 42,
+  "Games": 209,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 995,
+  "DefensiveInt": 25,
+  "Sacks": 9.5,
+  "College": "Howard"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418321"
+  },
+  "Round": 6,
+  "Pick": 208,
+  "Team": "BAL",
+  "Player": "Derrick Martin",
+  "First": "Derrick",
+  "Last": "Martin",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 6,
+  "DraftAverage": 3,
+  "Games": 73,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 77,
+  "DefensiveInt": 3,
+  "Sacks": 1,
+  "College": "Wyoming"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418322"
+  },
+  "Round": 7,
+  "Pick": 209,
+  "Team": "CIN",
+  "Player": "Ethan Kilmer",
+  "First": "Ethan",
+  "Last": "Kilmer",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 2,
+  "DraftAverage": 2,
+  "Games": 16,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 14,
+  "DefensiveInt": 1,
+  "Sacks": 0,
+  "College": "Penn St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418323"
+  },
+  "Round": 7,
+  "Pick": 210,
+  "Team": "NOR",
+  "Player": "Zach Strief",
+  "First": "Zach",
+  "Last": "Strief",
+  "Position": "G",
+  "Age": 22,
+  "Until": 2017,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 6,
+  "CareerAverage": 56,
+  "DraftAverage": 56,
+  "Games": 158,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Northwestern"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418324"
+  },
+  "Round": 7,
+  "Pick": 211,
+  "Team": "DAL",
+  "Player": "Pat McQuistan",
+  "First": "Pat",
+  "Last": "McQuistan",
+  "Position": "T",
+  "Age": 23,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 7,
+  "DraftAverage": 3,
+  "Games": 72,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Weber St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418325"
+  },
+  "Round": 7,
+  "Pick": 212,
+  "Team": "MIA",
+  "Player": "Fred Evans",
+  "First": "Fred",
+  "Last": "Evans",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 9,
+  "DraftAverage": 0,
+  "Games": 95,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 66,
+  "DefensiveInt": 0,
+  "Sacks": 3,
+  "College": "Texas St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418326"
+  },
+  "Round": 7,
+  "Pick": 213,
+  "Team": "JAX",
+  "Player": "James Wyche",
+  "First": "James",
+  "Last": "Wyche",
+  "Position": "DE",
+  "Age": 24,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 3,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Syracuse"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418327"
+  },
+  "Round": 7,
+  "Pick": 214,
+  "Team": "OAK",
+  "Player": "Chris Morris",
+  "First": "Chris",
+  "Last": "Morris",
+  "Position": "C",
+  "Age": 23,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 5,
+  "Games": 51,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Michigan St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418328"
+  },
+  "Round": 7,
+  "Pick": 215,
+  "Team": "TEN",
+  "Player": "Cortland Finnegan",
+  "First": "Cortland",
+  "Last": "Finnegan",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2015,
+  "AP1": 1,
+  "PB": 1,
+  "YearsStarter": 6,
+  "CareerAverage": 52,
+  "DraftAverage": 42,
+  "Games": 133,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 541,
+  "DefensiveInt": 18,
+  "Sacks": 7,
+  "College": "Samford"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418329"
+  },
+  "Round": 7,
+  "Pick": 216,
+  "Team": "BUF",
+  "Player": "Terrance Pennington",
+  "First": "Terrance",
+  "Last": "Pennington",
+  "Position": "T",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 4,
+  "DraftAverage": 4,
+  "Games": 16,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "New Mexico"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041832a"
+  },
+  "Round": 7,
+  "Pick": 217,
+  "Team": "DET",
+  "Player": "Fred Matua",
+  "First": "Fred",
+  "Last": "Matua",
+  "Position": "G",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "USC"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041832b"
+  },
+  "Round": 7,
+  "Pick": 218,
+  "Team": "ARI",
+  "Player": "Todd Watkins",
+  "First": "Todd",
+  "Last": "Watkins",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 0,
+  "Games": 21,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 8,
+  "RecYards": 90,
+  "RecTDs": 0,
+  "TackleSolo": 5,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "BYU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041832c"
+  },
+  "Round": 7,
+  "Pick": 219,
+  "Team": "BAL",
+  "Player": "Ryan LaCasse",
+  "First": "Ryan",
+  "Last": "LaCasse",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 0,
+  "Games": 12,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 6,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Syracuse"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041832d"
+  },
+  "Round": 7,
+  "Pick": 220,
+  "Team": "NYJ",
+  "Player": "Titus Adams",
+  "First": "Titus",
+  "Last": "Adams",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 2,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Nebraska"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041832e"
+  },
+  "Round": 7,
+  "Pick": 221,
+  "Team": "STL",
+  "Player": "Tim McGarigle",
+  "First": "Tim",
+  "Last": "McGarigle",
+  "Position": "LB",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 12,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 6,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Northwestern"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041832f"
+  },
+  "Round": 7,
+  "Pick": 222,
+  "Team": "CLE",
+  "Player": "Justin Hamilton",
+  "First": "Justin",
+  "Last": "Hamilton",
+  "Position": "RB",
+  "Age": 23,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 12,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 13,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418330"
+  },
+  "Round": 7,
+  "Pick": 223,
+  "Team": "ATL",
+  "Player": "DJ Shockley",
+  "First": "DJ",
+  "Last": "Shockley",
+  "Position": "QB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418331"
+  },
+  "Round": 7,
+  "Pick": 224,
+  "Team": "DAL",
+  "Player": "EJ Whitley",
+  "First": "EJ",
+  "Last": "Whitley",
+  "Position": "C",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Texas Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418332"
+  },
+  "Round": 7,
+  "Pick": 225,
+  "Team": "SDG",
+  "Player": "Chase Page",
+  "First": "Chase",
+  "Last": "Page",
+  "Position": "DT",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 6,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 4,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "North Carolina"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418333"
+  },
+  "Round": 7,
+  "Pick": 226,
+  "Team": "MIA",
+  "Player": "Rodrique Wright",
+  "First": "Rodrique",
+  "Last": "Wright",
+  "Position": "DT",
+  "Age": 22,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 4,
+  "DraftAverage": 4,
+  "Games": 14,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 28,
+  "DefensiveInt": 0,
+  "Sacks": 1.5,
+  "College": "Texas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418334"
+  },
+  "Round": 7,
+  "Pick": 227,
+  "Team": "SDG",
+  "Player": "Jimmy Martin",
+  "First": "Jimmy",
+  "Last": "Martin",
+  "Position": "C",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418335"
+  },
+  "Round": 7,
+  "Pick": 228,
+  "Team": "KAN",
+  "Player": "Jarrad Page",
+  "First": "Jarrad",
+  "Last": "Page",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 2,
+  "CareerAverage": 18,
+  "DraftAverage": 16,
+  "Games": 74,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 4,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 190,
+  "DefensiveInt": 12,
+  "Sacks": 1,
+  "College": "UCLA"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418336"
+  },
+  "Round": 7,
+  "Pick": 229,
+  "Team": "NWE",
+  "Player": "Willie Andrews",
+  "First": "Willie",
+  "Last": "Andrews",
+  "Position": "DB",
+  "Age": 22,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 3,
+  "DraftAverage": 3,
+  "Games": 30,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 12,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Baylor"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418337"
+  },
+  "Round": 7,
+  "Pick": 230,
+  "Team": "WAS",
+  "Player": "Kili Lefotu",
+  "First": "Kili",
+  "Last": "Lefotu",
+  "Position": "G",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Arizona"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418338"
+  },
+  "Round": 7,
+  "Pick": 231,
+  "Team": "CIN",
+  "Player": "Bennie Brazell",
+  "First": "Bennie",
+  "Last": "Brazell",
+  "Position": "WR",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "LSU"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418339"
+  },
+  "Round": 7,
+  "Pick": 232,
+  "Team": "NYG",
+  "Player": "Gerrick McPhearson",
+  "First": "Gerrick",
+  "Last": "McPhearson",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Maryland"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041833a"
+  },
+  "Round": 7,
+  "Pick": 233,
+  "Team": "MIA",
+  "Player": "Devin Aromashodu",
+  "First": "Devin",
+  "Last": "Aromashodu",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 10,
+  "DraftAverage": 0,
+  "Games": 61,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 78,
+  "RecYards": 1193,
+  "RecTDs": 5,
+  "TackleSolo": 3,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Auburn"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041833b"
+  },
+  "Round": 7,
+  "Pick": 234,
+  "Team": "CAR",
+  "Player": "Will Montgomery",
+  "First": "Will",
+  "Last": "Montgomery",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 4,
+  "CareerAverage": 33,
+  "DraftAverage": 1,
+  "Games": 110,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041833c"
+  },
+  "Round": 7,
+  "Pick": 235,
+  "Team": "TAM",
+  "Player": "Justin Phinisee",
+  "First": "Justin",
+  "Last": "Phinisee",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Oregon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041833d"
+  },
+  "Round": 7,
+  "Pick": 236,
+  "Team": "JAX",
+  "Player": "Dee Webb",
+  "First": "Dee",
+  "Last": "Webb",
+  "Position": "DB",
+  "Age": 21,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 11,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 15,
+  "DefensiveInt": 1,
+  "Sacks": 0,
+  "College": "Florida"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041833e"
+  },
+  "Round": 7,
+  "Pick": 237,
+  "Team": "CAR",
+  "Player": "Stanley McClover",
+  "First": "Stanley",
+  "Last": "McClover",
+  "Position": "DE",
+  "Age": 21,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 14,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 7,
+  "DefensiveInt": 0,
+  "Sacks": 1,
+  "College": "Auburn"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041833f"
+  },
+  "Round": 7,
+  "Pick": 238,
+  "Team": "IND",
+  "Player": "TJ Rushing",
+  "First": "TJ",
+  "Last": "Rushing",
+  "Position": "DB",
+  "Age": 23,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 3,
+  "DraftAverage": 3,
+  "Games": 35,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 26,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Stanford"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418340"
+  },
+  "Round": 7,
+  "Pick": 239,
+  "Team": "SEA",
+  "Player": "Ryan Plackemeier",
+  "First": "Ryan",
+  "Last": "Plackemeier",
+  "Position": "P",
+  "Age": 22,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 4,
+  "Games": 43,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 1,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Wake Forest"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418341"
+  },
+  "Round": 7,
+  "Pick": 240,
+  "Team": "PIT",
+  "Player": "Cedric Humes",
+  "First": "Cedric",
+  "Last": "Humes",
+  "Position": "RB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Virginia Tech"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418342"
+  },
+  "Round": 7,
+  "Pick": 241,
+  "Team": "TAM",
+  "Player": "Charles Bennett",
+  "First": "Charles",
+  "Last": "Bennett",
+  "Position": "LB",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 3,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Clemson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418343"
+  },
+  "Round": 7,
+  "Pick": 242,
+  "Team": "STL",
+  "Player": "Mark Setterstrom",
+  "First": "Mark",
+  "Last": "Setterstrom",
+  "Position": "G",
+  "Age": 22,
+  "Until": 2009,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 5,
+  "DraftAverage": 5,
+  "Games": 19,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Minnesota"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418344"
+  },
+  "Round": 7,
+  "Pick": 243,
+  "Team": "STL",
+  "Player": "Tony Palmer",
+  "First": "Tony",
+  "Last": "Palmer",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 8,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Missouri"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418345"
+  },
+  "Round": 7,
+  "Pick": 244,
+  "Team": "TAM",
+  "Player": "Tim Massaquoi",
+  "First": "Tim",
+  "Last": "Massaquoi",
+  "Position": "TE",
+  "Age": 24,
+  "Until": 2007,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 11,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Michigan"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418346"
+  },
+  "Round": 7,
+  "Pick": 245,
+  "Team": "TEN",
+  "Player": "Spencer Toone",
+  "First": "Spencer",
+  "Last": "Toone",
+  "Position": "LB",
+  "Age": 26,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 3,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Utah"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418347"
+  },
+  "Round": 7,
+  "Pick": 246,
+  "Team": "TEN",
+  "Player": "Quinton Ganther",
+  "First": "Quinton",
+  "Last": "Ganther",
+  "Position": "RB",
+  "Age": 22,
+  "Until": 2010,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 3,
+  "DraftAverage": 1,
+  "Games": 36,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 80,
+  "RushYards": 280,
+  "RushTDs": 3,
+  "Rec": 17,
+  "RecYards": 151,
+  "RecTDs": 0,
+  "TackleSolo": 5,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Utah"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418348"
+  },
+  "Round": 7,
+  "Pick": 247,
+  "Team": "DET",
+  "Player": "Anthony Cannon",
+  "First": "Anthony",
+  "Last": "Cannon",
+  "Position": "LB",
+  "Age": 21,
+  "Until": 2008,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 3,
+  "DraftAverage": 3,
+  "Games": 32,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 17,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Tulane"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418349"
+  },
+  "Round": 7,
+  "Pick": 248,
+  "Team": "BUF",
+  "Player": "Aaron Merz",
+  "First": "Aaron",
+  "Last": "Merz",
+  "Position": "G",
+  "Age": 23,
+  "Until": 2006,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 1,
+  "DraftAverage": 1,
+  "Games": 7,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "California"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041834a"
+  },
+  "Round": 7,
+  "Pick": 249,
+  "Team": "SEA",
+  "Player": "Ben Obomanu",
+  "First": "Ben",
+  "Last": "Obomanu",
+  "Position": "WR",
+  "Age": 22,
+  "Until": 2013,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 10,
+  "DraftAverage": 10,
+  "Games": 69,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 4,
+  "RushYards": 41,
+  "RushTDs": 0,
+  "Rec": 88,
+  "RecYards": 1217,
+  "RecTDs": 7,
+  "TackleSolo": 23,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Auburn"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041834b"
+  },
+  "Round": 7,
+  "Pick": 250,
+  "Team": "WAS",
+  "Player": "Kevin Simon",
+  "First": "Kevin",
+  "Last": "Simon",
+  "Position": "LB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Tennessee"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041834c"
+  },
+  "Round": 7,
+  "Pick": 251,
+  "Team": "HOU",
+  "Player": "David Anderson",
+  "First": "David",
+  "Last": "Anderson",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2011,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 1,
+  "CareerAverage": 7,
+  "DraftAverage": 6,
+  "Games": 67,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 88,
+  "RecYards": 965,
+  "RecTDs": 4,
+  "TackleSolo": 8,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Colorado St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041834d"
+  },
+  "Round": 7,
+  "Pick": 252,
+  "Team": "NOR",
+  "Player": "Marques Colston",
+  "First": "Marques",
+  "Last": "Colston",
+  "Position": "WR",
+  "Age": 23,
+  "Until": 2015,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 7,
+  "CareerAverage": 73,
+  "DraftAverage": 73,
+  "Games": 146,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 2,
+  "RushYards": 7,
+  "RushTDs": 0,
+  "Rec": 711,
+  "RecYards": 9759,
+  "RecTDs": 72,
+  "TackleSolo": 1,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Hofstra"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041834e"
+  },
+  "Round": 7,
+  "Pick": 253,
+  "Team": "GNB",
+  "Player": "Dave Tollefson",
+  "First": "Dave",
+  "Last": "Tollefson",
+  "Position": "DE",
+  "Age": 24,
+  "Until": 2012,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 6,
+  "DraftAverage": 0,
+  "Games": 78,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 62,
+  "DefensiveInt": 0,
+  "Sacks": 10.5,
+  "College": "NW Missouri St."
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041834f"
+  },
+  "Round": 7,
+  "Pick": 254,
+  "Team": "SFO",
+  "Player": "Vickiel Vaughn",
+  "First": "Vickiel",
+  "Last": "Vaughn",
+  "Position": "DB",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Arkansas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418350"
+  },
+  "Round": 7,
+  "Pick": 255,
+  "Team": "OAK",
+  "Player": "Kevin McMahan",
+  "First": "Kevin",
+  "Last": "McMahan",
+  "Position": "WR",
+  "Age": null,
+  "Until": null,
+  "AP1": 0,
+  "PB": 0,
+  "YearsStarter": 0,
+  "CareerAverage": 0,
+  "DraftAverage": 0,
+  "Games": 0,
+  "PassComp": 0,
+  "PassAtt": 0,
+  "PassYards": 0,
+  "PassTDs": 0,
+  "Int": 0,
+  "RushAtt": 0,
+  "RushYards": 0,
+  "RushTDs": 0,
+  "Rec": 0,
+  "RecYards": 0,
+  "RecTDs": 0,
+  "TackleSolo": 0,
+  "DefensiveInt": 0,
+  "Sacks": 0,
+  "College": "Maine"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418351"
+  },
+  "Player": "Brad Smith"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418352"
+  },
+  "Player": "Brodie Croyle"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418353"
+  },
+  "Player": "Bruce Gradkowski"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418354"
+  },
+  "Player": "Charlie Whitehurst"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418355"
+  },
+  "Player": "DJ Shockley"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418356"
+  },
+  "Player": "Ingle Martin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418357"
+  },
+  "Player": "Jay Cutler"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418358"
+  },
+  "Player": "Kellen Clemens"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418359"
+  },
+  "Player": "Matt Leinart"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041835a"
+  },
+  "Player": "Omar Jacobs"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041835b"
+  },
+  "Player": "Reggie McNeal"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041835c"
+  },
+  "Player": "Tarvaris Jackson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041835d"
+  },
+  "Player": "Vince Young"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041835e"
+  },
+  "Player": "Brian Calhoun"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041835f"
+  },
+  "Player": "Cedric Humes"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418360"
+  },
+  "Player": "David Kirtman"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418361"
+  },
+  "Player": "DeAngelo Williams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418362"
+  },
+  "Player": "JD Runnels"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418363"
+  },
+  "Player": "Jerious Norwood"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418364"
+  },
+  "Player": "Jerome Harrison"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418365"
+  },
+  "Player": "Joseph Addai"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418366"
+  },
+  "Player": "Justin Hamilton"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418367"
+  },
+  "Player": "Laurence Maroney"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418368"
+  },
+  "Player": "LenDale White"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418369"
+  },
+  "Player": "Leon Washington"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041836a"
+  },
+  "Player": "PJ Daniels"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041836b"
+  },
+  "Player": "Quinton Ganther"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041836c"
+  },
+  "Player": "Reggie Bush"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041836d"
+  },
+  "Player": "Wali Lundy"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041836e"
+  },
+  "Player": "Anthony Fasano"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041836f"
+  },
+  "Player": "Ben Obomanu"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418370"
+  },
+  "Player": "Bennie Brazell"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418371"
+  },
+  "Player": "Brandon Marshall"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418372"
+  },
+  "Player": "Chad Jackson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418373"
+  },
+  "Player": "Charles Davis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418374"
+  },
+  "Player": "Cory Rodgers"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418375"
+  },
+  "Player": "David Anderson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418376"
+  },
+  "Player": "David Thomas"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418377"
+  },
+  "Player": "Demetrius Williams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418378"
+  },
+  "Player": "Derek Hagan"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418379"
+  },
+  "Player": "Devin Aromashodu"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041837a"
+  },
+  "Player": "Domenik Hixon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041837b"
+  },
+  "Player": "Dominique Byrd"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041837c"
+  },
+  "Player": "Greg Jennings"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041837d"
+  },
+  "Player": "Jason Avant"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041837e"
+  },
+  "Player": "Jason Pociask"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041837f"
+  },
+  "Player": "Jeff King"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418380"
+  },
+  "Player": "Jeff Webb"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418381"
+  },
+  "Player": "Joe Klopfenstein"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418382"
+  },
+  "Player": "Jonathan Orr"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418383"
+  },
+  "Player": "Leonard Pope"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418384"
+  },
+  "Player": "Marcedes Lewis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418385"
+  },
+  "Player": "Maurice Stovall"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418386"
+  },
+  "Player": "Mike Hass"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418387"
+  },
+  "Player": "Owen Daniels"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418388"
+  },
+  "Player": "Quinn Sypniewski"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418389"
+  },
+  "Player": "Santonio Holmes"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041838a"
+  },
+  "Player": "Sinorice Moss"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041838b"
+  },
+  "Player": "Skyler Green"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041838c"
+  },
+  "Player": "TJ Williams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041838d"
+  },
+  "Player": "Tim Massaquoi"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041838e"
+  },
+  "Player": "Todd Watkins"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041838f"
+  },
+  "Player": "Tony Scheffler"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418390"
+  },
+  "Player": "Travis Wilson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418391"
+  },
+  "Player": "Vernon Davis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418392"
+  },
+  "Player": "Willie Reid"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418393"
+  },
+  "Player": "Kurt Smith"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418394"
+  },
+  "Player": "Stephen Gostkowski"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418395"
+  },
+  "Player": "Ryan Plackemeier"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418396"
+  },
+  "Player": "Sam Koch"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418397"
+  },
+  "Player": "AJ Hawk"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418398"
+  },
+  "Player": "AJ Nicholson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418399"
+  },
+  "Player": "Aaron Merz"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041839a"
+  },
+  "Player": "Abdul Hodge"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041839b"
+  },
+  "Player": "Alan Zemaitis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041839c"
+  },
+  "Player": "Anthony Cannon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041839d"
+  },
+  "Player": "Anthony Montgomery"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041839e"
+  },
+  "Player": "Anthony Smith"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041839f"
+  },
+  "Player": "Ashton Youboty"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a0"
+  },
+  "Player": "Barry Cofield"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a1"
+  },
+  "Player": "Bernard Pollard"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a2"
+  },
+  "Player": "Bobby Carpenter"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a3"
+  },
+  "Player": "Brad Butler"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a4"
+  },
+  "Player": "Brandon Johnson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a5"
+  },
+  "Player": "Brodrick Bunkley"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a6"
+  },
+  "Player": "Calvin Lowry"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a7"
+  },
+  "Player": "Cedric Griffin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a8"
+  },
+  "Player": "Chad Greenway"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183a9"
+  },
+  "Player": "Charles Bennett"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183aa"
+  },
+  "Player": "Charlie Peprah"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ab"
+  },
+  "Player": "Chase Page"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ac"
+  },
+  "Player": "Claude Wroten"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ad"
+  },
+  "Player": "Clint Ingram"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ae"
+  },
+  "Player": "DQwell Jackson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183af"
+  },
+  "Player": "Daniel Bullocks"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b0"
+  },
+  "Player": "Darnell Bing"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b1"
+  },
+  "Player": "Darryl Tapp"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b2"
+  },
+  "Player": "Davin Joseph"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b3"
+  },
+  "Player": "Dawan Landry"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b4"
+  },
+  "Player": "DeMario Minter"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b5"
+  },
+  "Player": "DeMeco Ryans"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b6"
+  },
+  "Player": "Dee McCann"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b7"
+  },
+  "Player": "Derrick Martin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b8"
+  },
+  "Player": "Domata Peko"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183b9"
+  },
+  "Player": "Donte Whitner"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ba"
+  },
+  "Player": "Drew Coleman"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183bb"
+  },
+  "Player": "Dusty Dvoracek"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183bc"
+  },
+  "Player": "EJ Whitley"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183bd"
+  },
+  "Player": "Elvis Dumervil"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183be"
+  },
+  "Player": "Ernie Sims"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183bf"
+  },
+  "Player": "Freddy Keiaho"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c0"
+  },
+  "Player": "Frostee Rucker"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c1"
+  },
+  "Player": "Gerrick McPhearson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c2"
+  },
+  "Player": "Gerris Wilkinson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c3"
+  },
+  "Player": "Greg Blue"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c4"
+  },
+  "Player": "Haloti Ngata"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c5"
+  },
+  "Player": "Jamar Williams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c6"
+  },
+  "Player": "James Anderson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c7"
+  },
+  "Player": "James Wyche"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c8"
+  },
+  "Player": "Jarrad Page"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183c9"
+  },
+  "Player": "Jason Allen"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ca"
+  },
+  "Player": "Jason Hatcher"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183cb"
+  },
+  "Player": "Jason Spitz"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183cc"
+  },
+  "Player": "Jeremy Mincey"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183cd"
+  },
+  "Player": "Jeromey Clary"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ce"
+  },
+  "Player": "Jesse Mahelona"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183cf"
+  },
+  "Player": "Jimmy Martin"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d0"
+  },
+  "Player": "John McCargo"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d1"
+  },
+  "Player": "Johnny Jolly"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d2"
+  },
+  "Player": "Jon Alston"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d3"
+  },
+  "Player": "Jonathan Lewis"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d4"
+  },
+  "Player": "Josh Lay"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d5"
+  },
+  "Player": "Julian Jenkins"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d6"
+  },
+  "Player": "Justin Phinisee"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d7"
+  },
+  "Player": "Kamerion Wimbley"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d8"
+  },
+  "Player": "Kedric Golston"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183d9"
+  },
+  "Player": "Keith Ellison"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183da"
+  },
+  "Player": "Kelly Jennings"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183db"
+  },
+  "Player": "Kevin Simon"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183dc"
+  },
+  "Player": "Kili Lefotu"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183dd"
+  },
+  "Player": "Ko Simpson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183de"
+  },
+  "Player": "LaJuan Ramsey"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183df"
+  },
+  "Player": "Leon Williams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e0"
+  },
+  "Player": "Manny Lawson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e1"
+  },
+  "Player": "Marcus Hudson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e2"
+  },
+  "Player": "Marcus Maxey"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e3"
+  },
+  "Player": "Marcus McNeill"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e4"
+  },
+  "Player": "Mario Williams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e5"
+  },
+  "Player": "Mark Anderson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e6"
+  },
+  "Player": "Mathias Kiwanuka"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e7"
+  },
+  "Player": "Melvin Oliver"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e8"
+  },
+  "Player": "Michael Huff"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183e9"
+  },
+  "Player": "Montavious Stanley"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ea"
+  },
+  "Player": "Nate Salley"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183eb"
+  },
+  "Player": "Omar Gaither"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ec"
+  },
+  "Player": "Orien Harris"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ed"
+  },
+  "Player": "Parys Haralson"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ee"
+  },
+  "Player": "Pat Watkins"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ef"
+  },
+  "Player": "Ray Edwards"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f0"
+  },
+  "Player": "Richard Marshall"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f1"
+  },
+  "Player": "Rob Ninkovich"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f2"
+  },
+  "Player": "Rodrique Wright"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f3"
+  },
+  "Player": "Roman Harper"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f4"
+  },
+  "Player": "Ryan LaCasse"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f5"
+  },
+  "Player": "Spencer Toone"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f6"
+  },
+  "Player": "Stanley McClover"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f7"
+  },
+  "Player": "Stephen Tulloch"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f8"
+  },
+  "Player": "TJ Rushing"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183f9"
+  },
+  "Player": "Tamba Hali"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183fa"
+  },
+  "Player": "Terna Nande"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183fb"
+  },
+  "Player": "Tim Dobbins"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183fc"
+  },
+  "Player": "Tim Jennings"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183fd"
+  },
+  "Player": "Tim McGarigle"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183fe"
+  },
+  "Player": "Titus Adams"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04183ff"
+  },
+  "Player": "Tye Hill"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418400"
+  },
+  "Player": "Tyrone Culver"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418401"
+  },
+  "Player": "Vickiel Vaughn"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418402"
+  },
+  "Player": "Victor Adeyanju"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418403"
+  },
+  "Player": "Zach Strief"
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418405"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418406"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418407"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418408"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418409"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041840a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041840b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041840c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041840d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041840e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041840f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418410"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418411"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418412"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418413"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418414"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418415"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418416"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418417"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418418"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418419"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041841a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041841b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041841c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041841d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041841e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041841f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418420"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418421"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418422"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418423"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418424"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418425"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418426"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418427"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418428"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418429"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041842a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041842b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041842c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041842d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041842e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041842f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418430"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418431"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418432"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418433"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418434"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418435"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418436"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418437"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418438"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418439"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041843a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041843b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041843c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041843d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041843e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041843f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418440"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418441"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418442"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418443"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418444"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418445"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418446"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418447"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418448"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418449"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041844a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041844b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041844c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041844d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041844e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041844f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418450"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418451"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418452"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418453"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418454"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418455"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418456"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418457"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418458"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418459"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041845a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041845b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041845c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041845d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041845e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041845f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418460"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418461"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418462"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418463"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418464"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418465"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418466"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418467"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418468"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418469"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041846a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041846b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041846c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041846d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041846e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041846f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418470"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418471"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418472"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418473"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418474"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418475"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418476"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418477"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418478"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418479"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041847a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041847b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041847c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041847d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041847e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041847f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418480"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418481"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418482"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418483"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418484"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418485"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418486"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418487"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418488"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418489"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041848a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041848b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041848c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041848d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041848e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041848f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418490"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418491"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418492"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418493"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418494"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418495"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418496"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418497"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418498"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab0418499"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041849a"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041849b"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041849c"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041849d"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041849e"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab041849f"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a0"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a1"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a2"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a3"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a4"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a5"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a6"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a7"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a8"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184a9"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184aa"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ab"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ac"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ad"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ae"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184af"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b0"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b1"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b2"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b3"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b4"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b5"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b6"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b7"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b8"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184b9"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ba"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184bb"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184bc"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184bd"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184be"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184bf"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c0"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c1"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c2"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c3"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c4"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c5"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c6"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c7"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c8"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184c9"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ca"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184cb"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184cc"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184cd"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184ce"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184cf"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d0"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d1"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d2"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d3"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d4"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d5"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d6"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d7"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d8"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184d9"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184da"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184db"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184dc"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184dd"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184de"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184df"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e0"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e1"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e2"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e3"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e4"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e5"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e6"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e7"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e8"
+  }
+},{
+  "_id": {
+    "$oid": "5ef7aa7b176cea7ab04184e9"
+  }
+}]
