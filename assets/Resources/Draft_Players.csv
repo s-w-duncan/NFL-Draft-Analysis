@@ -1,0 +1,256 @@
+﻿Round,Pick,Team,Player,First,Last,Position,Age,Until,AP1,PB,YearsStarter,CareerAverage,DraftAverage,Games,PassComp,PassAtt,PassYards,PassTDs,Int,RushAtt,RushYards,RushTDs,Rec,RecYards,RecTDs,TackleSolo,DefensiveInt,Sacks,College
+1,1,HOU,Mario Williams,Mario,Williams,DE,21,2016,1,4,9,76,34,158,0,0,0,0,0,0,0,0,0,0,0,317,0,97.5,North Carolina St.
+1,2,NOR,Reggie Bush,Reggie,Bush,RB,21,2016,0,0,6,61,33,134,0,1,0,0,1,1286,5490,36,477,3598,18,0,0,0,USC
+1,3,TEN,Vince Young,Vince,Young,QB,23,2011,0,2,4,33,31,60,755,1304,8964,46,51,282,1459,12,0,0,0,0,0,0,Texas
+1,4,NYJ,DBrickashaw Ferguson,DBrickashaw,Ferguson,T,22,2015,0,3,10,61,61,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Virginia
+1,5,GNB,AJ Hawk,AJ,Hawk,LB,22,2016,0,0,10,59,56,159,0,0,0,0,0,0,0,0,0,0,0,645,9,20,Ohio St.
+1,6,SFO,Vernon Davis,Vernon,Davis,TE,22,2019,0,2,11,51,41,198,0,0,0,0,0,6,15,0,583,7562,63,0,0,0,Maryland
+1,7,OAK,Michael Huff,Michael,Huff,DB,23,2013,0,0,6,33,33,118,0,0,0,0,0,0,0,0,0,0,0,371,11,5.5,Texas
+1,8,BUF,Donte Whitner,Donte,Whitner,DB,21,2016,0,2,9,48,18,157,0,0,0,0,0,0,0,0,0,0,0,668,11,3,Ohio St.
+1,9,DET,Ernie Sims,Ernie,Sims,LB,21,2013,0,0,5,30,19,109,0,0,0,0,0,0,0,0,0,0,0,420,1,5.5,Florida St.
+1,10,ARI,Matt Leinart,Matt,Leinart,QB,23,2012,0,0,1,12,12,33,366,641,4065,15,21,47,89,2,0,0,0,0,0,0,USC
+1,11,DEN,Jay Cutler,Jay,Cutler,QB,23,2017,0,1,10,87,28,153,3048,4920,35133,227,160,386,1682,9,0,0,0,1,0,0,Vanderbilt
+1,12,BAL,Haloti Ngata,Haloti,Ngata,DT,22,2018,2,5,12,99,91,180,0,0,0,0,0,0,0,0,0,0,0,329,5,32.5,Oregon
+1,13,CLE,Kamerion Wimbley,Kamerion,Wimbley,DE,22,2014,0,0,8,44,23,140,0,0,0,0,0,0,0,0,0,0,0,322,2,53.5,Florida St.
+1,14,PHI,Brodrick Bunkley,Brodrick,Bunkley,DT,22,2014,0,0,7,41,26,130,0,0,0,0,0,0,0,0,0,0,0,171,0,8.5,Florida St.
+1,15,STL,Tye Hill,Tye,Hill,DB,24,2010,0,0,0,9,7,40,0,0,0,0,0,0,0,0,0,0,0,117,5,0,Clemson
+1,16,MIA,Jason Allen,Jason,Allen,DB,23,2012,0,0,1,13,9,98,0,0,0,0,0,0,0,0,0,0,0,213,15,0,Tennessee
+1,17,MIN,Chad Greenway,Chad,Greenway,LB,23,2016,0,2,10,64,64,156,0,0,0,0,0,0,0,0,0,0,0,762,11,18,Iowa
+1,18,DAL,Bobby Carpenter,Bobby,Carpenter,LB,23,2012,0,0,0,10,5,93,0,0,0,0,0,0,0,0,0,0,0,126,1,3.5,Ohio St.
+1,19,SDG,Antonio Cromartie,Antonio,Cromartie,DB,22,2016,1,4,8,61,22,162,0,0,0,0,0,1,1,0,1,-2,0,376,31,0,Florida St.
+1,20,KAN,Tamba Hali,Tamba,Hali,DE,22,2017,0,5,10,77,77,177,0,0,0,0,0,0,0,0,0,0,0,460,2,89.5,Penn St.
+1,21,NWE,Laurence Maroney,Laurence,Maroney,RB,21,2010,0,0,0,26,25,49,0,0,0,0,0,618,2504,21,44,459,1,1,0,0,Minnesota
+1,22,SFO,Manny Lawson,Manny,Lawson,DE,22,2015,0,0,7,46,23,143,0,0,0,0,0,0,0,0,0,0,0,352,4,24.5,North Carolina St.
+1,23,TAM,Davin Joseph,Davin,Joseph,G,22,2014,0,2,8,42,37,116,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Oklahoma
+1,24,CIN,Johnathan Joseph,Johnathan,Joseph,DB,22,2019,0,2,13,66,17,200,0,0,0,0,0,0,0,0,0,0,0,642,31,0,South Carolina
+1,25,PIT,Santonio Holmes,Santonio,Holmes,WR,22,2014,0,0,6,47,35,112,0,1,0,0,0,16,89,0,389,6030,36,0,0,0,Ohio St.
+1,26,BUF,John McCargo,John,McCargo,DT,23,2011,0,0,0,3,3,44,0,0,0,0,0,0,0,0,0,0,0,35,0,2.5,North Carolina St.
+1,27,CAR,DeAngelo Williams,DeAngelo,Williams,RB,23,2016,0,1,6,61,51,142,0,0,0,0,0,1730,8096,61,236,2106,9,1,0,0,Memphis
+1,28,JAX,Marcedes Lewis,Marcedes,Lewis,TE,22,2019,0,1,12,33,33,202,0,0,0,0,0,0,0,0,393,4697,34,0,0,0,UCLA
+1,29,NYJ,Nick Mangold,Nick,Mangold,C,22,2016,2,7,11,62,62,164,0,0,0,0,0,0,0,0,1,-3,0,1,0,0,Ohio St.
+1,30,IND,Joseph Addai,Joseph,Addai,RB,23,2011,0,1,4,50,50,78,1,1,22,1,0,1095,4453,39,191,1448,9,0,0,0,LSU
+1,31,SEA,Kelly Jennings,Kelly,Jennings,DB,23,2011,0,0,2,18,18,91,0,0,0,0,0,0,0,0,0,0,0,211,2,1,Miami (FL)
+1,32,NYG,Mathias Kiwanuka,Mathias,Kiwanuka,DE,23,2014,0,0,6,36,36,120,0,0,0,0,0,0,0,0,0,0,0,301,3,38.5,Boston Col.
+2,33,HOU,DeMeco Ryans,DeMeco,Ryans,LB,22,2015,0,2,9,57,38,140,0,0,0,0,0,0,0,0,0,0,0,735,7,13.5,Alabama
+2,34,CLE,DQwell Jackson,DQwell,Jackson,LB,22,2016,0,1,9,63,40,141,0,0,0,0,0,0,0,0,0,0,0,754,9,19.5,Maryland
+2,35,WAS,Rocky McIntosh,Rocky,McIntosh,LB,23,2013,0,0,6,38,33,124,0,0,0,0,0,0,0,0,0,0,0,371,4,9,Miami (FL)
+2,36,NWE,Chad Jackson,Chad,Jackson,WR,21,2008,0,0,0,2,2,18,0,0,0,0,0,4,22,0,14,171,3,0,0,0,Florida
+2,37,ATL,Jimmy Williams,Jimmy,Williams,DB,22,2007,0,0,0,4,4,27,0,0,0,0,0,0,0,0,0,0,0,41,1,0,Virginia Tech
+2,38,OAK,Thomas Howard,Thomas,Howard,LB,23,2013,0,0,5,34,26,95,0,0,0,0,0,0,0,0,0,0,0,392,7,6,Texas-El Paso
+2,39,PHI,Winston Justice,Winston,Justice,T,21,2013,0,0,3,23,17,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,USC
+2,40,DET,Daniel Bullocks,Daniel,Bullocks,DB,23,2008,0,0,1,7,7,31,0,0,0,0,0,0,0,0,0,0,0,119,0,1,Nebraska
+2,41,ARI,Deuce Lutui,Deuce,Lutui,G,23,2012,0,0,6,32,30,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,USC
+2,42,CHI,Danieal Manning,Danieal,Manning,DB,24,2014,0,0,6,37,22,128,0,0,0,0,0,0,0,0,0,0,0,435,11,4,Abilene Christian
+2,43,NOR,Roman Harper,Roman,Harper,DB,23,2016,0,2,8,48,37,156,0,0,0,0,0,0,0,0,0,0,0,641,11,18,Alabama
+2,44,NYG,Sinorice Moss,Sinorice,Moss,WR,22,2009,0,0,0,4,4,37,0,0,0,0,0,1,4,0,39,421,3,2,0,0,Miami (FL)
+2,45,TEN,LenDale White,LenDale,White,RB,21,2009,0,0,1,14,14,58,0,0,0,0,0,628,2349,24,42,204,0,0,0,0,USC
+2,46,STL,Joe Klopfenstein,Joe,Klopfenstein,TE,22,2009,0,0,3,3,3,49,0,0,0,0,0,0,0,0,34,397,2,0,0,0,Colorado
+2,47,GNB,Daryn Colledge,Daryn,Colledge,T,24,2014,0,0,9,54,36,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Boise St.
+2,48,MIN,Cedric Griffin,Cedric,Griffin,DB,23,2012,0,0,4,26,25,89,0,0,0,0,0,0,0,0,0,0,0,352,8,0,Texas
+2,49,NYJ,Kellen Clemens,Kellen,Clemens,QB,23,2017,0,0,2,10,3,64,350,638,4053,16,21,85,227,3,0,0,0,1,0,0,Oregon
+2,50,SDG,Marcus McNeill,Marcus,McNeill,T,22,2011,0,2,6,55,55,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Auburn
+2,51,MIN,Ryan Cook,Ryan,Cook,C,23,2012,0,0,3,24,18,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,New Mexico
+2,52,GNB,Greg Jennings,Greg,Jennings,WR,22,2015,0,2,8,65,54,143,0,0,0,0,0,1,-1,0,571,8291,64,0,0,0,West. Michigan
+2,53,DAL,Anthony Fasano,Anthony,Fasano,TE,22,2017,0,0,9,23,2,180,0,0,0,0,0,0,0,0,299,3278,36,0,0,0,Notre Dame
+2,54,KAN,Bernard Pollard,Bernard,Pollard,DB,21,2014,0,0,7,36,11,126,0,0,0,0,0,0,0,0,0,0,0,553,12,10.5,Purdue
+2,55,CIN,Andrew Whitworth,Andrew,Whitworth,T,24,2019,2,4,14,101,69,215,0,0,0,0,0,0,0,0,1,1,1,0,0,0,LSU
+2,56,BAL,Chris Chester,Chris,Chester,G,23,2016,0,0,9,56,16,169,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Oklahoma
+2,57,CHI,Devin Hester,Devin,Hester,DB,23,2016,3,4,4,49,45,156,0,0,0,0,0,36,116,1,255,3311,16,11,0,0,Miami (FL)
+2,58,CAR,Richard Marshall,Richard,Marshall,DB,21,2014,0,0,4,32,24,124,0,0,0,0,0,0,0,0,0,0,0,526,18,7,Fresno St.
+2,59,TAM,Jeremy Trueblood,Jeremy,Trueblood,T,23,2013,0,0,6,40,36,116,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Boston Col.
+2,60,JAX,Maurice JonesDrew,Maurice,JonesDrew,RB,21,2014,1,3,4,72,72,126,1,2,8,1,1,1847,8167,68,346,2944,11,0,0,0,UCLA
+2,61,DEN,Tony Scheffler,Tony,Scheffler,TE,23,2013,0,0,1,24,16,107,0,0,0,0,0,3,7,0,258,3207,22,3,1,0,West. Michigan
+2,62,IND,Tim Jennings,Tim,Jennings,DB,22,2015,0,2,5,43,9,137,0,0,0,0,0,0,0,0,0,0,0,396,20,0,Georgia
+2,63,SEA,Darryl Tapp,Darryl,Tapp,DE,21,2017,0,0,2,30,21,165,0,0,0,0,0,0,0,0,0,0,0,262,2,29,Virginia Tech
+2,64,MIN,Tarvaris Jackson,Tarvaris,Jackson,QB,23,2015,0,0,2,21,12,59,640,1073,7263,39,35,171,636,6,0,0,0,0,0,0,Alabama St.
+3,65,HOU,Charles Spencer,Charles,Spencer,G,24,2006,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pittsburgh
+3,66,HOU,Eric Winston,Eric,Winston,T,22,2017,0,0,7,61,48,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Miami (FL)
+3,67,GNB,Abdul Hodge,Abdul,Hodge,LB,23,2010,0,0,0,2,1,35,0,0,0,0,0,0,0,0,0,0,0,25,0,0,Iowa
+3,68,STL,Claude Wroten,Claude,Wroten,DT,22,2007,0,0,0,2,2,26,0,0,0,0,0,0,0,0,0,0,0,21,0,1.5,LSU
+3,69,OAK,Paul McQuistan,Paul,McQuistan,T,23,2014,0,0,2,23,4,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Weber St.
+3,70,BUF,Ashton Youboty,Ashton,Youboty,DB,22,2011,0,0,0,8,5,49,0,0,0,0,0,0,0,0,0,0,0,73,2,2,Ohio St.
+3,71,PHI,Chris Gocong,Chris,Gocong,DE,22,2012,0,0,5,30,16,79,0,0,0,0,0,0,0,0,0,0,0,228,0,9.5,Cal Poly-San Luis Obispo
+3,72,ARI,Leonard Pope,Leonard,Pope,TE,22,2012,0,0,3,6,4,103,0,0,0,0,0,0,0,0,105,982,11,0,0,0,Georgia
+3,73,CHI,Dusty Dvoracek,Dusty,Dvoracek,DT,25,2008,0,0,1,6,6,13,0,0,0,0,0,0,0,0,0,0,0,24,0,0,Oklahoma
+3,74,DET,Brian Calhoun,Brian,Calhoun,RB,22,2007,0,0,0,1,1,11,0,0,0,0,0,14,54,0,7,55,0,1,0,0,Wisconsin
+3,75,GNB,Jason Spitz,Jason,Spitz,G,23,2012,0,0,2,24,24,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Louisville
+3,76,NYJ,Anthony Schlegel,Anthony,Schlegel,LB,25,2007,0,0,0,2,0,17,0,0,0,0,0,0,0,0,0,0,0,21,0,0,Ohio St.
+3,77,STL,Jon Alston,Jon,Alston,LB,23,2009,0,0,0,6,0,39,0,0,0,0,0,1,22,0,0,0,0,51,0,0,Stanford
+3,78,CLE,Travis Wilson,Travis,Wilson,WR,22,2006,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,32,0,0,0,0,Oklahoma
+3,79,ATL,Jerious Norwood,Jerious,Norwood,RB,23,2011,0,0,0,20,20,66,0,2,0,0,1,399,2056,7,96,912,3,6,0,0,Mississippi St.
+3,80,JAX,Clint Ingram,Clint,Ingram,LB,23,2009,0,0,4,21,21,56,0,0,0,0,0,0,0,0,0,0,0,158,2,5.5,Oklahoma
+3,81,SDG,Charlie Whitehurst,Charlie,Whitehurst,QB,24,2016,0,0,0,7,0,26,219,396,2463,11,8,56,156,2,0,10,0,0,0,0,Clemson
+3,82,MIA,Derek Hagan,Derek,Hagan,WR,21,2014,0,0,0,12,4,100,0,0,0,0,0,0,0,0,148,1734,7,19,0,0,Arizona St.
+3,83,PIT,Anthony Smith,Anthony,Smith,DB,22,2011,0,0,1,12,8,76,0,0,0,0,0,0,0,0,0,0,0,146,7,0,Syracuse
+3,84,SFO,Brandon Williams,Brandon,Williams,WR,22,2007,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Wisconsin
+3,85,KAN,Brodie Croyle,Brodie,Croyle,QB,23,2010,0,0,0,2,2,18,181,319,1669,8,9,10,15,0,0,0,0,0,0,0,Alabama
+3,86,NWE,David Thomas,David,Thomas,TE,23,2012,0,0,2,9,3,80,0,0,0,0,0,0,0,0,102,938,8,1,0,0,Texas
+3,87,BAL,David Pittman,David,Pittman,DB,22,2007,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,9,2,0,NW State (LA)
+3,88,CAR,James Anderson,James,Anderson,LB,22,2015,0,0,4,31,25,123,0,0,0,0,0,0,0,0,0,0,0,421,3,12,Virginia Tech
+3,89,CAR,Rashad Butler,Rashad,Butler,T,23,2013,0,0,0,6,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Miami (FL)
+3,90,TAM,Maurice Stovall,Maurice,Stovall,WR,21,2012,0,0,0,5,5,81,0,0,0,0,0,2,29,0,52,668,3,37,0,0,Notre Dame
+3,91,CIN,Frostee Rucker,Frostee,Rucker,DE,22,2018,0,0,5,41,10,157,0,0,0,0,0,0,0,0,0,0,0,201,1,21.5,USC
+3,92,DAL,Jason Hatcher,Jason,Hatcher,DE,24,2015,0,1,5,34,23,147,0,0,0,0,0,0,0,0,0,0,0,177,1,34.5,Grambling St.
+3,93,STL,Dominique Byrd,Dominique,Byrd,TE,22,2011,0,0,0,0,0,17,0,0,0,0,0,0,0,0,6,83,1,0,0,0,USC
+3,94,IND,Freddy Keiaho,Freddy,Keiaho,LB,23,2009,0,0,2,15,15,55,0,0,0,0,0,0,0,0,0,0,0,189,1,1.5,San Diego St.
+3,95,PIT,Willie Reid,Willie,Reid,WR,23,2007,0,0,0,1,1,7,0,0,0,0,0,0,0,0,4,54,0,0,0,0,Florida St.
+3,96,NYG,Gerris Wilkinson,Gerris,Wilkinson,LB,23,2010,0,0,0,6,6,58,0,0,0,0,0,0,0,0,0,0,0,54,0,0,Georgia Tech
+3,97,NYJ,Eric Smith,Eric,Smith,DB,23,2012,0,0,1,16,16,96,0,0,0,0,0,0,0,0,1,27,0,225,6,3.5,Michigan St.
+4,98,HOU,Owen Daniels,Owen,Daniels,TE,23,2015,0,2,9,41,35,131,0,0,0,0,0,0,0,0,479,5661,36,2,0,0,Wisconsin
+4,99,PHI,Max JeanGilles,Max,JeanGilles,G,22,2010,0,0,2,14,14,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Georgia
+4,100,SFO,Michael Robinson,Michael,Robinson,WR,23,2013,0,1,0,7,4,112,1,2,28,0,0,115,422,2,75,610,3,55,0,0,Penn St.
+4,101,OAK,Darnell Bing,Darnell,Bing,DB,21,2009,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,4,0,0,USC
+4,102,TEN,Calvin Lowry,Calvin,Lowry,DB,23,2008,0,0,0,7,6,48,0,0,0,0,0,0,0,0,0,0,0,68,2,0,Penn St.
+4,103,NYJ,Brad Smith,Brad,Smith,QB,22,2014,0,0,1,17,11,127,4,10,51,1,2,134,972,4,104,987,5,68,0,0,Missouri
+4,104,GNB,Cory Rodgers,Cory,Rodgers,WR,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TCU
+4,105,BUF,Ko Simpson,Ko,Simpson,DB,22,2009,0,0,2,13,11,41,0,0,0,0,0,0,0,0,0,0,0,129,3,1,South Carolina
+4,106,NWE,Garrett Mills,Garrett,Mills,FB,22,2010,0,0,0,1,0,16,0,0,0,0,0,0,0,0,9,110,0,4,0,0,Tulsa
+4,107,ARI,Gabe Watson,Gabe,Watson,DT,22,2010,0,0,1,12,12,62,0,0,0,0,0,0,0,0,0,0,0,81,0,2,Michigan
+4,108,NOR,Jahri Evans,Jahri,Evans,T,23,2017,4,6,12,106,103,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bloomsburg
+4,109,PHI,Jason Avant,Jason,Avant,WR,23,2015,0,0,2,30,26,148,0,0,0,0,0,2,2,0,346,4118,13,22,0,0,Michigan
+4,110,CLE,Leon Williams,Leon,Williams,LB,23,2012,0,0,1,10,9,61,0,0,0,0,0,0,0,0,0,0,0,129,0,5,Miami (FL)
+4,111,BAL,Demetrius Williams,Demetrius,Williams,WR,23,2010,0,0,0,9,9,46,0,0,0,0,0,0,0,0,63,1008,4,0,0,0,Oregon
+4,112,CLE,Isaac Sowells,Isaac,Sowells,T,24,2008,0,0,0,1,1,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Indiana
+4,113,STL,Victor Adeyanju,Victor,Adeyanju,DE,23,2009,0,0,2,13,13,53,0,0,0,0,0,0,0,0,0,0,0,109,0,3,Indiana
+4,114,MIA,Joe Toledo,Joe,Toledo,T,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Washington
+4,115,GNB,Will Blackmon,Will,Blackmon,DB,21,2016,0,0,2,18,5,96,0,0,0,0,0,0,0,0,0,0,0,159,4,3.5,Boston Col.
+4,116,TEN,Stephen Tulloch,Stephen,Tulloch,LB,21,2016,0,0,7,50,21,159,0,0,0,0,0,0,0,0,0,0,0,683,5,14.5,North Carolina St.
+4,117,NYJ,Leon Washington,Leon,Washington,RB,24,2014,1,2,1,30,23,126,1,1,36,0,0,487,2271,16,168,1286,4,5,0,0,Florida St.
+4,118,NWE,Stephen Gostkowski,Stephen,Gostkowski,K,22,2019,2,4,0,36,36,204,0,0,0,0,0,0,0,0,0,0,0,18,0,0,Memphis
+4,119,DEN,Brandon Marshall,Brandon,Marshall,WR,22,2018,1,6,10,84,27,179,0,1,0,0,0,20,118,0,970,12351,83,6,0,0,Central Florida
+4,120,CHI,Jamar Williams,Jamar,Williams,LB,22,2010,0,0,0,5,5,54,0,0,0,0,0,0,0,0,0,0,0,70,0,1,Arizona St.
+4,121,CAR,Nate Salley,Nate,Salley,DB,22,2008,0,0,0,2,2,24,0,0,0,0,0,0,0,0,0,0,0,9,0,0,Ohio St.
+4,122,TAM,Alan Zemaitis,Alan,Zemaitis,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Penn St.
+4,123,CIN,Domata Peko,Domata,Peko,DT,21,2019,0,0,12,67,60,208,0,0,0,0,0,0,0,0,0,0,0,315,0,20,Michigan St.
+4,124,NYG,Barry Cofield,Barry,Cofield,DT,22,2015,0,0,8,44,29,138,0,0,0,0,0,0,0,0,0,0,0,208,0,19.5,Northwestern
+4,125,DAL,Skyler Green,Skyler,Green,WR,21,2008,0,0,0,0,0,11,0,0,0,0,0,1,1,0,3,33,0,0,0,0,LSU
+4,126,DEN,Elvis Dumervil,Elvis,Dumervil,DE,22,2017,2,5,6,64,42,162,0,0,0,0,0,0,0,0,0,0,0,263,1,105.5,Louisville
+4,127,MIN,Ray Edwards,Ray,Edwards,DE,21,2012,0,0,5,37,27,97,0,0,0,0,0,0,0,0,0,0,0,168,0,33,Purdue
+4,128,SEA,Rob Sims,Rob,Sims,G,22,2014,0,0,7,44,11,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ohio St.
+4,129,NYG,Guy Whimper,Guy,Whimper,DE,23,2013,0,0,1,13,2,78,0,0,0,0,0,0,0,0,3,28,1,0,0,0,East Carolina
+4,130,DEN,Domenik Hixon,Domenik,Hixon,WR,21,2013,0,0,0,17,0,76,0,0,0,0,0,3,18,0,109,1460,7,27,0,0,Akron
+4,131,PIT,Willie Colon,Willie,Colon,G,23,2015,0,0,6,43,33,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hofstra
+4,132,BAL,PJ Daniels,PJ,Daniels,RB,23,2007,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Georgia Tech
+4,133,PIT,Orien Harris,Orien,Harris,DT,23,2009,0,0,0,2,0,20,0,0,0,0,0,0,0,0,0,0,0,9,0,0,Miami (FL)
+5,134,BUF,Kyle Williams,Kyle,Williams,DT,23,2018,0,6,11,77,77,183,0,0,0,0,0,1,1,1,1,9,0,387,1,48.5,LSU
+5,135,NOR,Rob Ninkovich,Rob,Ninkovich,DE,22,2016,0,0,7,50,0,131,0,0,0,0,0,0,0,0,0,0,0,273,5,46,Purdue
+5,136,NWE,Ryan OCallaghan,Ryan,OCallaghan,T,23,2010,0,0,1,12,7,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,California
+5,137,TEN,Terna Nande,Terna,Nande,LB,23,2006,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Miami (OH)
+5,138,DAL,Pat Watkins,Pat,Watkins,DB,23,2010,0,0,1,7,7,53,0,0,0,0,0,0,0,0,0,0,0,104,4,0,Florida St.
+5,139,ATL,Quinn Ojinnaka,Quinn,Ojinnaka,G,22,2012,0,0,0,12,7,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Syracuse
+5,140,SFO,Parys Haralson,Parys,Haralson,DE,22,2014,0,0,7,37,29,118,0,0,0,0,0,0,0,0,0,0,0,190,0,28,Tennessee
+5,141,DET,Jonathan Scott,Jonathan,Scott,T,23,2014,0,0,2,20,4,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Texas
+5,142,ARI,Brandon Johnson,Brandon,Johnson,LB,23,2012,0,0,1,13,0,87,0,0,0,0,0,0,0,0,0,0,0,133,3,3.5,Louisville
+5,143,BUF,Brad Butler,Brad,Butler,T,22,2009,0,0,2,12,12,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Virginia
+5,144,STL,Marques Hagans,Marques,Hagans,WR,23,2008,0,0,0,1,1,10,1,1,5,0,0,3,-2,0,9,108,0,0,0,0,Virginia
+5,145,CLE,Jerome Harrison,Jerome,Harrison,RB,23,2012,0,0,0,13,11,63,0,0,0,0,0,356,1681,7,70,490,3,4,0,0,Washington St.
+5,146,BAL,Dawan Landry,Dawan,Landry,DB,23,2014,0,0,8,43,21,130,0,0,0,0,0,0,0,0,0,0,0,562,13,8,Georgia Tech
+5,147,PHI,Jeremy Bloom,Jeremy,Bloom,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Colorado
+5,148,GNB,Ingle Martin,Ingle,Martin,QB,24,2006,0,0,0,0,0,1,0,0,0,0,0,2,-5,0,0,0,0,0,0,0,Furman
+5,149,MIN,Greg Blue,Greg,Blue,DB,24,2007,0,0,0,1,1,20,0,0,0,0,0,0,0,0,0,0,0,18,0,0,Georgia
+5,150,NYJ,Jason Pociask,Jason,Pociask,TE,23,2007,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,7,0,0,0,0,Wisconsin
+5,151,SDG,Tim Dobbins,Tim,Dobbins,LB,23,2014,0,0,1,19,9,110,0,0,0,0,0,0,0,0,0,0,0,198,3,2,Iowa St.
+5,152,CLE,DeMario Minter,DeMario,Minter,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Georgia
+5,153,WAS,Anthony Montgomery,Anthony,Montgomery,NT,22,2009,0,0,1,14,14,42,0,0,0,0,0,0,0,0,0,0,0,55,0,3,Minnesota
+5,154,KAN,Marcus Maxey,Marcus,Maxey,DB,23,2006,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Miami (FL)
+5,155,CAR,Jeff King,Jeff,King,TE,23,2012,0,0,6,10,7,108,0,0,0,0,0,0,0,0,156,1323,12,7,0,0,Virginia Tech
+5,156,TAM,Julian Jenkins,Julian,Jenkins,DE,22,2006,0,0,0,1,1,12,0,0,0,0,0,0,0,0,0,0,0,6,0,0,Stanford
+5,157,CIN,AJ Nicholson,AJ,Nicholson,LB,23,2006,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Florida St.
+5,158,NYG,Charlie Peprah,Charlie,Peprah,DB,23,2012,0,0,2,11,0,74,0,0,0,0,0,0,0,0,0,0,0,142,8,0,Alabama
+5,159,CHI,Mark Anderson,Mark,Anderson,DE,23,2012,0,0,1,21,14,98,0,0,0,0,0,0,0,0,0,0,0,132,0,36.5,Alabama
+5,160,JAX,Brent Hawkins,Brent,Hawkins,DE,23,2007,0,0,0,3,3,20,0,0,0,0,0,0,0,0,0,0,0,19,0,5.5,Illinois St.
+5,161,DEN,Chris Kuper,Chris,Kuper,G,23,2013,0,0,5,32,32,90,0,0,0,0,0,0,0,0,0,7,0,0,0,0,North Dakota
+5,162,IND,Michael Toudouze,Michael,Toudouze,G,23,2011,0,0,0,1,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TCU
+5,163,SEA,David Kirtman,David,Kirtman,RB,23,2008,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,USC
+5,164,PIT,Omar Jacobs,Omar,Jacobs,QB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bowling Green
+5,165,GNB,Tony Moll,Tony,Moll,T,23,2011,0,0,0,13,10,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nevada
+5,166,BAL,Quinn Sypniewski,Quinn,Sypniewski,TE,24,2007,0,0,1,2,2,31,0,0,0,0,0,0,0,0,36,261,1,2,0,0,Colorado
+5,167,PIT,Charles Davis,Charles,Davis,TE,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Purdue
+5,168,PHI,Omar Gaither,Omar,Gaither,LB,22,2013,0,0,2,25,22,92,0,0,0,0,0,0,0,0,0,0,0,264,2,6,Tennessee
+5,169,TEN,Jesse Mahelona,Jesse,Mahelona,DT,23,2007,0,0,0,1,1,11,0,0,0,0,0,0,0,0,0,0,0,16,0,1,Tennessee
+6,170,HOU,Wali Lundy,Wali,Lundy,RB,22,2006,0,0,1,5,5,14,0,0,0,0,0,124,476,4,33,204,0,0,0,0,Virginia
+6,171,NOR,Mike Hass,Mike,Hass,WR,23,2009,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oregon St.
+6,172,TEN,Jonathan Orr,Jonathan,Orr,WR,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Wisconsin
+6,173,WAS,Reed Doughty,Reed,Doughty,DB,23,2013,0,0,2,20,20,107,0,0,0,0,0,0,0,0,0,0,0,336,3,3.5,Northern Colorado
+6,174,NOR,Josh Lay,Josh,Lay,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pittsburgh
+6,175,SFO,Delanie Walker,Delanie,Walker,WR,22,2019,0,3,7,39,8,183,0,0,0,0,0,16,89,1,504,5888,36,37,0,0,Central Missouri St.
+6,176,OAK,Kevin Boothe,Kevin,Boothe,T,23,2014,0,0,3,26,2,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cornell
+6,177,ARI,Jonathan Lewis,Jonathan,Lewis,DT,22,2006,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Virginia Tech
+6,178,BUF,Keith Ellison,Keith,Ellison,LB,22,2010,0,0,3,19,19,58,0,0,0,0,0,1,6,0,0,0,0,164,2,2,Oregon St.
+6,179,DET,Dee McCann,Dee,McCann,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Virginia
+6,180,CLE,Lawrence Vickers,Lawrence,Vickers,FB,23,2012,0,0,3,3,2,106,0,0,0,0,0,37,98,0,58,404,3,13,0,0,Colorado
+6,181,CLE,Babatunde Oshinowo,Babatunde,Oshinowo,DT,23,2007,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Stanford
+6,182,DAL,Montavious Stanley,Montavious,Stanley,DT,24,2009,0,0,0,5,0,33,0,0,0,0,0,0,0,0,0,0,0,46,0,1.5,Louisville
+6,183,GNB,Johnny Jolly,Johnny,Jolly,DT,23,2013,0,0,3,23,23,61,0,0,0,0,0,0,0,0,0,0,0,89,1,3,Texas A&M
+6,184,ATL,Adam Jennings,Adam,Jennings,WR,23,2009,0,0,0,0,0,46,0,0,0,0,0,1,-4,0,6,62,1,11,0,0,Fresno St.
+6,185,GNB,Tyrone Culver,Tyrone,Culver,DB,23,2012,0,0,0,7,1,80,0,0,0,0,0,0,0,0,0,0,0,109,2,1,Fresno St.
+6,186,KAN,Tre Stallings,Tre,Stallings,G,23,2007,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Mississippi St.
+6,187,SDG,Jeromey Clary,Jeromey,Clary,T,22,2014,0,0,6,53,53,103,0,0,0,0,0,0,0,0,1,-8,0,0,0,0,Kansas St.
+6,188,SDG,Kurt Smith,Kurt,Smith,K,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Virginia
+6,189,NYJ,Drew Coleman,Drew,Coleman,DB,23,2011,0,0,0,9,6,83,0,0,0,0,0,0,0,0,0,0,0,132,4,8,TCU
+6,190,KAN,Jeff Webb,Jeff,Webb,WR,24,2008,0,0,0,2,2,31,0,0,0,0,0,1,5,0,36,382,1,6,0,0,San Diego St.
+6,191,NWE,Jeremy Mincey,Jeremy,Mincey,DE,22,2015,0,0,4,30,0,96,0,0,0,0,0,0,0,0,0,0,0,152,1,26,Florida
+6,192,SFO,Marcus Hudson,Marcus,Hudson,DB,23,2010,0,0,0,5,4,62,0,0,0,0,0,0,0,0,0,0,0,71,0,0,North Carolina St.
+6,193,CIN,Reggie McNeal,Reggie,McNeal,QB,22,2006,0,0,0,0,0,7,0,0,0,0,0,1,8,0,0,0,0,0,0,0,Texas A&M
+6,194,TAM,Bruce Gradkowski,Bruce,Gradkowski,QB,23,2014,0,0,1,8,3,37,375,709,4057,21,24,88,329,0,0,0,0,0,0,0,Toledo
+6,195,CHI,JD Runnels,JD,Runnels,RB,22,2006,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oklahoma
+6,196,WAS,Kedric Golston,Kedric,Golston,DT,23,2016,0,0,4,27,27,142,0,0,0,0,0,0,0,0,0,0,0,137,0,7,Georgia
+6,197,SFO,Melvin Oliver,Melvin,Oliver,DE,23,2006,0,0,1,6,6,16,0,0,0,0,0,0,0,0,0,0,0,35,0,1,LSU
+6,198,DEN,Greg Eslinger,Greg,Eslinger,C,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Minnesota
+6,199,IND,Charlie Johnson,Charlie,Johnson,T,22,2014,0,0,8,56,33,134,0,0,0,0,0,0,0,0,1,-2,0,0,0,0,Oklahoma St.
+6,200,CHI,Tyler Reed,Tyler,Reed,G,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Penn St.
+6,201,PIT,Marvin Philip,Marvin,Philip,C,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,California
+6,202,TAM,TJ Williams,TJ,Williams,TE,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,North Carolina St.
+6,203,BAL,Sam Koch,Sam,Koch,P,24,2019,0,1,0,24,24,224,6,6,67,0,0,7,10,1,0,0,0,15,0,0,Nebraska
+6,204,PHI,LaJuan Ramsey,LaJuan,Ramsey,DT,22,2009,0,0,0,5,2,34,0,0,0,0,0,0,0,0,0,0,0,23,1,1,USC
+6,205,NWE,Dan Stevenson,Dan,Stevenson,G,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Notre Dame
+6,206,NWE,Le Kevin Smith,Le,Kevin,DT,24,2010,0,0,0,5,3,45,0,0,0,0,0,0,0,0,0,0,0,19,0,1,Nebraska
+6,207,IND,Antoine Bethea,Antoine,Bethea,DB,22,2019,0,3,12,63,42,209,0,0,0,0,0,0,0,0,0,0,0,995,25,9.5,Howard
+6,208,BAL,Derrick Martin,Derrick,Martin,DB,21,2013,0,0,0,6,3,73,0,0,0,0,0,0,0,0,0,0,0,77,3,1,Wyoming
+7,209,CIN,Ethan Kilmer,Ethan,Kilmer,WR,23,2006,0,0,0,2,2,16,0,0,0,0,0,0,0,0,0,0,0,14,1,0,Penn St.
+7,210,NOR,Zach Strief,Zach,Strief,G,22,2017,0,0,6,56,56,158,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Northwestern
+7,211,DAL,Pat McQuistan,Pat,McQuistan,T,23,2012,0,0,0,7,3,72,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Weber St.
+7,212,MIA,Fred Evans,Fred,Evans,DT,22,2013,0,0,0,9,0,95,0,0,0,0,0,0,0,0,0,0,0,66,0,3,Texas St.
+7,213,JAX,James Wyche,James,Wyche,DE,24,2009,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Syracuse
+7,214,OAK,Chris Morris,Chris,Morris,C,23,2010,0,0,0,5,5,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Michigan St.
+7,215,TEN,Cortland Finnegan,Cortland,Finnegan,DB,22,2015,1,1,6,52,42,133,0,0,0,0,0,0,0,0,0,0,0,541,18,7,Samford
+7,216,BUF,Terrance Pennington,Terrance,Pennington,T,22,2007,0,0,1,4,4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,New Mexico
+7,217,DET,Fred Matua,Fred,Matua,G,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,USC
+7,218,ARI,Todd Watkins,Todd,Watkins,WR,23,2009,0,0,0,1,0,21,0,0,0,0,0,0,0,0,8,90,0,5,0,0,BYU
+7,219,BAL,Ryan LaCasse,Ryan,LaCasse,LB,23,2006,0,0,0,1,0,12,0,0,0,0,0,0,0,0,0,0,0,6,0,0,Syracuse
+7,220,NYJ,Titus Adams,Titus,Adams,DT,23,2009,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Nebraska
+7,221,STL,Tim McGarigle,Tim,McGarigle,LB,22,2007,0,0,0,1,1,12,0,0,0,0,0,0,0,0,0,0,0,6,0,0,Northwestern
+7,222,CLE,Justin Hamilton,Justin,Hamilton,RB,23,2008,0,0,0,1,1,12,0,0,0,0,0,0,0,0,0,0,0,13,0,0,Virginia Tech
+7,223,ATL,DJ Shockley,DJ,Shockley,QB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Georgia
+7,224,DAL,EJ Whitley,EJ,Whitley,C,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Texas Tech
+7,225,SDG,Chase Page,Chase,Page,DT,23,2007,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,4,0,0,North Carolina
+7,226,MIA,Rodrique Wright,Rodrique,Wright,DT,22,2008,0,0,0,4,4,14,0,0,0,0,0,0,0,0,0,0,0,28,0,1.5,Texas
+7,227,SDG,Jimmy Martin,Jimmy,Martin,C,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Virginia Tech
+7,228,KAN,Jarrad Page,Jarrad,Page,DB,21,2011,0,0,2,18,16,74,0,0,0,0,0,1,4,0,0,0,0,190,12,1,UCLA
+7,229,NWE,Willie Andrews,Willie,Andrews,DB,22,2007,0,0,0,3,3,30,0,0,0,0,0,0,0,0,0,0,0,12,0,0,Baylor
+7,230,WAS,Kili Lefotu,Kili,Lefotu,G,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Arizona
+7,231,CIN,Bennie Brazell,Bennie,Brazell,WR,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LSU
+7,232,NYG,Gerrick McPhearson,Gerrick,McPhearson,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Maryland
+7,233,MIA,Devin Aromashodu,Devin,Aromashodu,WR,22,2012,0,0,0,10,0,61,0,0,0,0,0,0,0,0,78,1193,5,3,0,0,Auburn
+7,234,CAR,Will Montgomery,Will,Montgomery,G,23,2015,0,0,4,33,1,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Virginia Tech
+7,235,TAM,Justin Phinisee,Justin,Phinisee,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oregon
+7,236,JAX,Dee Webb,Dee,Webb,DB,21,2006,0,0,0,1,1,11,0,0,0,0,0,0,0,0,0,0,0,15,1,0,Florida
+7,237,CAR,Stanley McClover,Stanley,McClover,DE,21,2008,0,0,0,1,1,14,0,0,0,0,0,0,0,0,0,0,0,7,0,1,Auburn
+7,238,IND,TJ Rushing,TJ,Rushing,DB,23,2009,0,0,0,3,3,35,0,0,0,0,0,0,0,0,0,0,0,26,0,0,Stanford
+7,239,SEA,Ryan Plackemeier,Ryan,Plackemeier,P,22,2008,0,0,0,5,4,43,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Wake Forest
+7,240,PIT,Cedric Humes,Cedric,Humes,RB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Virginia Tech
+7,241,TAM,Charles Bennett,Charles,Bennett,LB,23,2006,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Clemson
+7,242,STL,Mark Setterstrom,Mark,Setterstrom,G,22,2009,0,0,0,5,5,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Minnesota
+7,243,STL,Tony Palmer,Tony,Palmer,G,23,2007,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Missouri
+7,244,TAM,Tim Massaquoi,Tim,Massaquoi,TE,24,2007,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Michigan
+7,245,TEN,Spencer Toone,Spencer,Toone,LB,26,2006,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Utah
+7,246,TEN,Quinton Ganther,Quinton,Ganther,RB,22,2010,0,0,0,3,1,36,0,0,0,0,0,80,280,3,17,151,0,5,0,0,Utah
+7,247,DET,Anthony Cannon,Anthony,Cannon,LB,21,2008,0,0,0,3,3,32,0,0,0,0,0,0,0,0,0,0,0,17,0,0,Tulane
+7,248,BUF,Aaron Merz,Aaron,Merz,G,23,2006,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,California
+7,249,SEA,Ben Obomanu,Ben,Obomanu,WR,22,2013,0,0,0,10,10,69,0,0,0,0,0,4,41,0,88,1217,7,23,0,0,Auburn
+7,250,WAS,Kevin Simon,Kevin,Simon,LB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tennessee
+7,251,HOU,David Anderson,David,Anderson,WR,23,2011,0,0,1,7,6,67,0,0,0,0,0,0,0,0,88,965,4,8,0,0,Colorado St.
+7,252,NOR,Marques Colston,Marques,Colston,WR,23,2015,0,0,7,73,73,146,0,0,0,0,0,2,7,0,711,9759,72,1,0,0,Hofstra
+7,253,GNB,Dave Tollefson,Dave,Tollefson,DE,24,2012,0,0,0,6,0,78,0,0,0,0,0,0,0,0,0,0,0,62,0,10.5,NW Missouri St.
+7,254,SFO,Vickiel Vaughn,Vickiel,Vaughn,DB,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Arkansas
+7,255,OAK,Kevin McMahan,Kevin,McMahan,WR,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Maine

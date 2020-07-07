@@ -1,0 +1,4069 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "": "179",
+        "name": "Colorado",
+        "address": "Colorado, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.782067,
+          39.55005
+        ],
+        "type": "Point"
+      },
+      "id": "0018e5b15fb6e1409074775079e50da8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "54",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "0057e7e3c61b7409e7768c6a9a0dfae3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "243",
+        "name": "Utah",
+        "address": "Utah, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.093731,
+          39.32098
+        ],
+        "type": "Point"
+      },
+      "id": "033780149f993b61025e6e0939e16890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "153",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "03cbff13a8184874219b8a448f5cb504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "172",
+        "name": "Northern Colorado Air, Inc.",
+        "address": "812 Stockton Ave, Fort Collins, Co 80524, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.004394,
+          40.577923
+        ],
+        "type": "Point"
+      },
+      "id": "07d2dcb58f713d2ae4d6d4b96669e6b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "236",
+        "name": "Stanford University",
+        "address": "450 Serra Mall, Stanford, Ca 94305, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.169719,
+          37.427474
+        ],
+        "type": "Point"
+      },
+      "id": "084c4334430c33494ce9f669f04002fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "123",
+        "name": "Northwestern University",
+        "address": "633 Clark St, Evanston, Il 60208, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.675266,
+          42.056459
+        ],
+        "type": "Point"
+      },
+      "id": "0a2f10109adf7afd890ee368f4ef9815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "5",
+        "name": "Maryland",
+        "address": "Maryland, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.641271,
+          39.045754
+        ],
+        "type": "Point"
+      },
+      "id": "0a4ceae3aff9cdafca63938c4b3bb295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "83",
+        "name": "Wisconsin",
+        "address": "Wisconsin, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.787867,
+          43.784439
+        ],
+        "type": "Point"
+      },
+      "id": "0b688de5fc9af5de08ee3c044fb45b7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "0",
+        "name": "North Carolina State University",
+        "address": "Raleigh, Nc 27695, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.682094,
+          35.784663
+        ],
+        "type": "Point"
+      },
+      "id": "0cbb2930632e693f4e2b9f18e08064b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "129",
+        "name": "Akron",
+        "address": "Akron, Oh, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.519005,
+          41.081444
+        ],
+        "type": "Point"
+      },
+      "id": "0f654ee91a7572efb77ef6ddad1e3f1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "87",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "0fee222b59f44b7337e3129067c3ed13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "160",
+        "name": "North Dakota",
+        "address": "North Dakota, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.002011,
+          47.551492
+        ],
+        "type": "Point"
+      },
+      "id": "118055ea271304e82b41a30b00a9f886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "124",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "11933de93dc429cb7c7b93050ce9c24d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "3",
+        "name": "Virginia",
+        "address": "Virginia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.656894,
+          37.431573
+        ],
+        "type": "Point"
+      },
+      "id": "11fc01cabbcf0df0180852c1be6f1ded"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "79",
+        "name": "Oklahoma City",
+        "address": "Oklahoma City, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.516427,
+          35.46756
+        ],
+        "type": "Point"
+      },
+      "id": "1396533c18e6c76558e1278c53bcd3c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "235",
+        "name": "Auburn",
+        "address": "Auburn, Al, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.480782,
+          32.609856
+        ],
+        "type": "Point"
+      },
+      "id": "1696d8fd25368f72a140588cd75aa081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "69",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "16e070b07437dbb798b1f9201592d471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "106",
+        "name": "Michigan",
+        "address": "Michigan, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.602364,
+          44.314844
+        ],
+        "type": "Point"
+      },
+      "id": "17b52e50a68b5b30558939d05c662fdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "66",
+        "name": "Iowa",
+        "address": "Iowa, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.097702,
+          41.878002
+        ],
+        "type": "Point"
+      },
+      "id": "1919f58f602b3edee13ac7da6efb3dc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "149",
+        "name": "Wisconsin",
+        "address": "Wisconsin, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.787867,
+          43.784439
+        ],
+        "type": "Point"
+      },
+      "id": "1b0f78e7324a7849bcc9cadce72e70fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "237",
+        "name": "Wake Forest University",
+        "address": "1834 Wake Forest Rd, Winston-Salem, Nc 27109, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.279195,
+          36.135505
+        ],
+        "type": "Point"
+      },
+      "id": "1c0c3cb45eb9e765b6ab5bf781ebb787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "127",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "1da0dc7125f634670fa2feceda3e1ba8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "97",
+        "name": "Wisconsin",
+        "address": "Wisconsin, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.787867,
+          43.784439
+        ],
+        "type": "Point"
+      },
+      "id": "1ef28a19506b42aff1519a8ef1926a57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "207",
+        "name": "Penn State University",
+        "address": "State College, Pa 16801, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "1ffe155e5f17b9cf33e0eef3f98ff979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "239",
+        "name": "Clemson University",
+        "address": "105 Sikes Hall, Clemson, Sc 29634, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.836865,
+          34.673843
+        ],
+        "type": "Point"
+      },
+      "id": "205c5c820216bd0687de1724c78d3f23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "45",
+        "name": "Colorado",
+        "address": "Colorado, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.782067,
+          39.55005
+        ],
+        "type": "Point"
+      },
+      "id": "20f54b55280188114a34d5c90d66a61d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "143",
+        "name": "Virginia",
+        "address": "Virginia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.656894,
+          37.431573
+        ],
+        "type": "Point"
+      },
+      "id": "229cb31be975ab3cbf82ee1d2a25ea77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "200",
+        "name": "California",
+        "address": "California, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.417932,
+          36.778261
+        ],
+        "type": "Point"
+      },
+      "id": "23553eca5d3f352000d206192b1142a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "6",
+        "name": "Texas",
+        "address": "Texas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          31.968598
+        ],
+        "type": "Point"
+      },
+      "id": "23dd9ccffa16fe3d713a843950e53a05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "158",
+        "name": "Alabama",
+        "address": "Alabama, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.902298,
+          32.318231
+        ],
+        "type": "Point"
+      },
+      "id": "2489cb2bc0b66cd3ebe6b07f9046150d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "9",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "24b23f5f040f714f87d6356e4923512d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "4",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "25274cf3f4355ee12c09c5910375f252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "96",
+        "name": "7Th St & Michigan Av",
+        "address": "Phoenix, Az 85022, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.065724,
+          33.650355
+        ],
+        "type": "Point"
+      },
+      "id": "25b041e23cdf1bf2db039389169af847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "42",
+        "name": "Alabama",
+        "address": "Alabama, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.902298,
+          32.318231
+        ],
+        "type": "Point"
+      },
+      "id": "25ef2ac9a7cf33cfb44b506dfa2712c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "72",
+        "name": "Oklahoma City",
+        "address": "Oklahoma City, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.516427,
+          35.46756
+        ],
+        "type": "Point"
+      },
+      "id": "271760d89586d919d2983e2c61f189e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "17",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "2830984769f1e7260778298dc6761f10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "190",
+        "name": "Florida",
+        "address": "Florida, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.515753,
+          27.664827
+        ],
+        "type": "Point"
+      },
+      "id": "2914cd55cb17291547141c6cdc36b126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "33",
+        "name": "Maryland",
+        "address": "Maryland, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.641271,
+          39.045754
+        ],
+        "type": "Point"
+      },
+      "id": "2aabc80d80865f2f88990fce7d1e8abb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "246",
+        "name": "California",
+        "address": "California, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.417932,
+          36.778261
+        ],
+        "type": "Point"
+      },
+      "id": "2acd5063a9dd1b32d22301b72f7c58dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "15",
+        "name": "Tennessee",
+        "address": "Tennessee, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.580447,
+          35.517491
+        ],
+        "type": "Point"
+      },
+      "id": "2b25c64892bd2a68272781fafa8d39dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "19",
+        "name": "Penn State University",
+        "address": "State College, Pa 16801, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "2cc0727fd5347f062de8af0c85df1cc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "242",
+        "name": "Michigan",
+        "address": "Michigan, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.602364,
+          44.314844
+        ],
+        "type": "Point"
+      },
+      "id": "2f01755938cdb9f0af972f72680e0986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "114",
+        "name": "Boston College",
+        "address": "140 Commonwealth Avenue, Chestnut Hill, Ma 02467, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.168494,
+          42.335548
+        ],
+        "type": "Point"
+      },
+      "id": "30520c0ab401a5643eeaae91d279b617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "118",
+        "name": "Central Florida",
+        "address": "Central Florida, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.866144,
+          28.058298
+        ],
+        "type": "Point"
+      },
+      "id": "305a065bfb44830edf286c3609b8c419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "48",
+        "name": "Oregon",
+        "address": "Oregon, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.554201,
+          43.804133
+        ],
+        "type": "Point"
+      },
+      "id": "31e71b66fb7b8f0e823ad995b5a65f16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "221",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "349ba79707d407d42f0b85593feb3360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "122",
+        "name": "7Th St & Michigan Av",
+        "address": "Phoenix, Az 85022, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.065724,
+          33.650355
+        ],
+        "type": "Point"
+      },
+      "id": "34d7c283366fafdc0d0be4c0f43dc65e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "117",
+        "name": "Memphis",
+        "address": "Memphis, Tn, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.04898,
+          35.149534
+        ],
+        "type": "Point"
+      },
+      "id": "34f00aedba7c52546ea9a576bf255871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "178",
+        "name": "West Virginia",
+        "address": "West Virginia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.454902,
+          38.597626
+        ],
+        "type": "Point"
+      },
+      "id": "358b933e13260d644bf6c4a370713603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "98",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "364c4195d67d7b4d173795452215e571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "47",
+        "name": "Texas",
+        "address": "Texas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          31.968598
+        ],
+        "type": "Point"
+      },
+      "id": "36ccd816a9a3b93ba7b207f1756c90c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "91",
+        "name": "Grambling State University",
+        "address": "403 Main St, Grambling, La 71245, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.718928,
+          32.52067
+        ],
+        "type": "Point"
+      },
+      "id": "388bb88e22dcc590d8cb906d0ac32fe2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "189",
+        "name": "San Diego State University",
+        "address": "5500 Campanile Dr, San Diego, Ca 92182, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.071253,
+          32.775989
+        ],
+        "type": "Point"
+      },
+      "id": "394aee7e090ba0d394471c9620737fc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "185",
+        "name": "Mississippi State University",
+        "address": "108 Hillburn St, Mississippi State, Ms 39762, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.796399,
+          33.45611
+        ],
+        "type": "Point"
+      },
+      "id": "3ad0326fc73056838e526f63cc0db9d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "30",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "3c28effef9fcb7b177ce6630b6eb3190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "93",
+        "name": "San Diego State University",
+        "address": "5500 Campanile Dr, San Diego, Ca 92182, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.071253,
+          32.775989
+        ],
+        "type": "Point"
+      },
+      "id": "3d1b61022a7ae1934e6efbfe5a5f823d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "44",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "3d8b2b51107bc8c0db29a8a702e77de4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "36",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "4293088c3f3caf5ace15c52d9239e9ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "157",
+        "name": "Alabama",
+        "address": "Alabama, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.902298,
+          32.318231
+        ],
+        "type": "Point"
+      },
+      "id": "42e38bb061709fdcb79568c8bf9fb6b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "249",
+        "name": "Chandler Bl & Colorado St",
+        "address": "Chandler, Az 85225, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.838462,
+          33.306053
+        ],
+        "type": "Point"
+      },
+      "id": "446cf3779407f78b5dfe89a2a58cb9cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "55",
+        "name": "Oklahoma City",
+        "address": "Oklahoma City, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.516427,
+          35.46756
+        ],
+        "type": "Point"
+      },
+      "id": "4493dd9794dfe4451d622d6d1efce0f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "86",
+        "name": "Northwestern State University",
+        "address": "175 Sam Sibley Dr, Natchitoches, La 71457, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.09745,
+          31.750351
+        ],
+        "type": "Point"
+      },
+      "id": "45977c2f41734f09384be1cd5e11728f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "135",
+        "name": "California",
+        "address": "California, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.417932,
+          36.778261
+        ],
+        "type": "Point"
+      },
+      "id": "45c6ca383b4278a7246ee48b9ed49619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "222",
+        "name": "Texas Tech University",
+        "address": "2500 Broadway, Lubbock, Tx 79409, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.878282,
+          33.584259
+        ],
+        "type": "Point"
+      },
+      "id": "465680f26c3562f675a2da2894b1837f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "61",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "4656bbcdf82165258d678c01e6fc5232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "229",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "467fbc9ba5e9c2cb374e077fe594f6f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "241",
+        "name": "Missouri",
+        "address": "Missouri, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.831833,
+          37.964252
+        ],
+        "type": "Point"
+      },
+      "id": "46bf7ff97df22641258656ec44a1dbfd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "57",
+        "name": "California State University, Fresno",
+        "address": "5241 N Maple Ave, Fresno, Ca 93740, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.746094,
+          36.813363
+        ],
+        "type": "Point"
+      },
+      "id": "46c1bccccc11c850c31bd39f08833dfc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "125",
+        "name": "Louisville",
+        "address": "Louisville, Ky, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.758455,
+          38.252664
+        ],
+        "type": "Point"
+      },
+      "id": "480b2829b7956f8ef26cdee39150798f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "174",
+        "name": "University Of Central Missouri",
+        "address": "108 W South St, Warrensburg, Mo 64093, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.73837,
+          38.758081
+        ],
+        "type": "Point"
+      },
+      "id": "486f9ecbe28f6c57e1ea0f8935c9a3cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "216",
+        "name": "Brigham Young University",
+        "address": "Provo, Ut 84602, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.649315,
+          40.251843
+        ],
+        "type": "Point"
+      },
+      "id": "488c4c141c50ff2c3b017be5d522c0a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "92",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "48daa9cc8bd66bc75b542ea71e613a6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "59",
+        "name": "University Of California, Los Angeles",
+        "address": "Los Angeles, Ca 90095, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.445181,
+          34.068921
+        ],
+        "type": "Point"
+      },
+      "id": "49951b9aa27c052d7daec2d3b48d0e5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "101",
+        "name": "Penn State University",
+        "address": "State College, Pa 16801, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "4b30450c80c9b049ee4a6e7771e4bf0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "27",
+        "name": "University Of California, Los Angeles",
+        "address": "Los Angeles, Ca 90095, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.445181,
+          34.068921
+        ],
+        "type": "Point"
+      },
+      "id": "4c61c49ebc56fd6e935ec649e908aca9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "218",
+        "name": "Nebraska",
+        "address": "Nebraska, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          41.492537
+        ],
+        "type": "Point"
+      },
+      "id": "4d2534a600bb31ce516146d52d53de1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "23",
+        "name": "South Carolina",
+        "address": "South Carolina, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.163724,
+          33.836081
+        ],
+        "type": "Point"
+      },
+      "id": "4d6bb55dd952233709141cbcf0b9116c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "240",
+        "name": "Minnesota",
+        "address": "Minnesota, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.685899,
+          46.729553
+        ],
+        "type": "Point"
+      },
+      "id": "4db0ebbc29db313548372b25d0885b0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "203",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "4de7f140349ae772d728227260890391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "76",
+        "name": "Stanford University",
+        "address": "450 Serra Mall, Stanford, Ca 94305, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.169719,
+          37.427474
+        ],
+        "type": "Point"
+      },
+      "id": "4e8b23d68eea1270ad1694e692bb2fb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "18",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "4f8ac5d251a9ce6528624cd73596b8ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "211",
+        "name": "Syracuse",
+        "address": "Syracuse, Ny, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.147424,
+          43.048122
+        ],
+        "type": "Point"
+      },
+      "id": "522774792b6a4edd8fb7459f1160c83b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "60",
+        "name": "Michigan",
+        "address": "Michigan, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.602364,
+          44.314844
+        ],
+        "type": "Point"
+      },
+      "id": "52fdb3d41432a367f9f3a7e245846488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "140",
+        "name": "Texas",
+        "address": "Texas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          31.968598
+        ],
+        "type": "Point"
+      },
+      "id": "53a11e2c33cf4cea652d485c633c911b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "78",
+        "name": "Mississippi State University",
+        "address": "108 Hillburn St, Mississippi State, Ms 39762, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.796399,
+          33.45611
+        ],
+        "type": "Point"
+      },
+      "id": "545bb3ab0d8f6f717159f6250bca6778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "28",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "558856467c153d65f3a6a9fbb9c85fae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "131",
+        "name": "Georgia Institute Of Technology",
+        "address": "North Ave Nw, Atlanta, Ga 30332, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.396284,
+          33.775617
+        ],
+        "type": "Point"
+      },
+      "id": "56d68baaf31377c6be068e9f05df560c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "232",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "5710df22288d58e3abf43ee8d2d51417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "68",
+        "name": "Harold St & Weber Dr",
+        "address": "Tempe, Az 85281, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.922275,
+          33.443851
+        ],
+        "type": "Point"
+      },
+      "id": "5893d8a2a79185953f0d8cfc55419e76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "206",
+        "name": "Wyoming",
+        "address": "Wyoming, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.290283,
+          43.075967
+        ],
+        "type": "Point"
+      },
+      "id": "58dcaf43cdde7e309680f2d07b32026f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "13",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "58df30869253f074cf2062abed80ebfb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "95",
+        "name": "Georgia Institute Of Technology",
+        "address": "North Ave Nw, Atlanta, Ga 30332, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.396284,
+          33.775617
+        ],
+        "type": "Point"
+      },
+      "id": "5a40f621c54d4bf8fef4c3eb0cf9b140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "89",
+        "name": "Notre Dame Preparatory High School",
+        "address": "9701 E Bell Rd, Scottsdale, Az 85260, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.87031,
+          33.637004
+        ],
+        "type": "Point"
+      },
+      "id": "5b6b4b39d633b41a962f3958c8c52049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "159",
+        "name": "N Illinois St",
+        "address": "N Illinois St, Chandler, Az 85225, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.849151,
+          33.33511
+        ],
+        "type": "Point"
+      },
+      "id": "5baa2985857e70d25707b72285017b39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "10",
+        "name": "Vanderbilt University",
+        "address": "2201 West End Ave, Nashville, Tn 37235, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.802655,
+          36.144703
+        ],
+        "type": "Point"
+      },
+      "id": "5c23fd5f1723b3a149b62707d860d389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "219",
+        "name": "Northwestern University",
+        "address": "633 Clark St, Evanston, Il 60208, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.675266,
+          42.056459
+        ],
+        "type": "Point"
+      },
+      "id": "5cdd59767a55e4b47078777a935e6a28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "248",
+        "name": "Tennessee",
+        "address": "Tennessee, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.580447,
+          35.517491
+        ],
+        "type": "Point"
+      },
+      "id": "5f1951d11f0432fd080a1d0405933cac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "228",
+        "name": "Arizona",
+        "address": "Arizona, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ],
+        "type": "Point"
+      },
+      "id": "5f38243540909609dad7fc0b209656d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "120",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "610313a7403d50c47919bd60c82dadb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "104",
+        "name": "South Carolina",
+        "address": "South Carolina, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.163724,
+          33.836081
+        ],
+        "type": "Point"
+      },
+      "id": "613909e8cfc659bbe73219e1260f439a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "198",
+        "name": "Oklahoma State University",
+        "address": "Stillwater, Ok, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.073722,
+          36.127023
+        ],
+        "type": "Point"
+      },
+      "id": "61771920820ad39fdf142bdc64e9f60e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "204",
+        "name": "Notre Dame Preparatory High School",
+        "address": "9701 E Bell Rd, Scottsdale, Az 85260, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.87031,
+          33.637004
+        ],
+        "type": "Point"
+      },
+      "id": "6265f1315870e8f107366e8a6b485f23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "162",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "679203997249fc8dd4a550d5546a5f74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "166",
+        "name": "Purdue University",
+        "address": "610 Purdue Mall, West Lafayette, In 47907, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.921194,
+          40.423705
+        ],
+        "type": "Point"
+      },
+      "id": "67c65eec0041ca0033b9bda2c54b7041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "84",
+        "name": "Alabama",
+        "address": "Alabama, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.902298,
+          32.318231
+        ],
+        "type": "Point"
+      },
+      "id": "68f2cd0c4c314dd986429fb17418b633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "119",
+        "name": "Arizona State University, Tempe Campus",
+        "address": "Tempe, Az 85281, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.928052,
+          33.424239
+        ],
+        "type": "Point"
+      },
+      "id": "6ac5512e04f3cc02a2648951fae19aa3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "70",
+        "name": "California Polytechnic State University",
+        "address": "San Luis Obispo, Ca 93407, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.662494,
+          35.305005
+        ],
+        "type": "Point"
+      },
+      "id": "6b12ed4192872a53aa62898f0c1538e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "138",
+        "name": "Syracuse",
+        "address": "Syracuse, Ny, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.147424,
+          43.048122
+        ],
+        "type": "Point"
+      },
+      "id": "6bbd3e7fcbc509f4a793deacf36c4592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "231",
+        "name": "Auburn",
+        "address": "Auburn, Al, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.480782,
+          32.609856
+        ],
+        "type": "Point"
+      },
+      "id": "6dfb3d4578a6fb0ea3f941698c4c4e30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "194",
+        "name": "Oklahoma City",
+        "address": "Oklahoma City, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.516427,
+          35.46756
+        ],
+        "type": "Point"
+      },
+      "id": "6e00d5bdc50451255684054944421171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "16",
+        "name": "Iowa",
+        "address": "Iowa, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.097702,
+          41.878002
+        ],
+        "type": "Point"
+      },
+      "id": "6e22c82eac3f3fb9bae83ca9d22f0ba5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "14",
+        "name": "Clemson University",
+        "address": "105 Sikes Hall, Clemson, Sc 29634, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.836865,
+          34.673843
+        ],
+        "type": "Point"
+      },
+      "id": "715173a117e62c1cc4776404d1040352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "142",
+        "name": "Virginia",
+        "address": "Virginia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.656894,
+          37.431573
+        ],
+        "type": "Point"
+      },
+      "id": "719947ab61668966f4ae55d84c26b3ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "168",
+        "name": "Tennessee",
+        "address": "Tennessee, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.580447,
+          35.517491
+        ],
+        "type": "Point"
+      },
+      "id": "73d67bc6667437424c4cbb3df8c6efe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "29",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "73e5965e975fbf92dee8d595ef32a201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "11",
+        "name": "Oregon",
+        "address": "Oregon, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.554201,
+          43.804133
+        ],
+        "type": "Point"
+      },
+      "id": "771124b0576f8fa4a1d23828dd76ad0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "209",
+        "name": "Harold St & Weber Dr",
+        "address": "Tempe, Az 85281, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.922275,
+          33.443851
+        ],
+        "type": "Point"
+      },
+      "id": "7747d9e4965c1d153a84f73dfe8a5927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "144",
+        "name": "E Washington Ave",
+        "address": "E Washington Ave, Gilbert, Az 85234, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.744931,
+          33.350986
+        ],
+        "type": "Point"
+      },
+      "id": "774eaaef02e0209e3d7a6dfbef1448b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "182",
+        "name": "Texas A",
+        "address": "800 George Bush Dr, College Station, Tx 77840, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.333712,
+          30.609091
+        ],
+        "type": "Point"
+      },
+      "id": "7894972c9bee682fec8ec00db30d2f7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "65",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "78dad306e19d2a4264c41a3a89c3a49b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "145",
+        "name": "Georgia Institute Of Technology",
+        "address": "North Ave Nw, Atlanta, Ga 30332, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.396284,
+          33.775617
+        ],
+        "type": "Point"
+      },
+      "id": "7b2eaa599b6e613046210f56e4b189b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "163",
+        "name": "Bowling Green",
+        "address": "Bowling Green, Ky, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.480804,
+          36.968521
+        ],
+        "type": "Point"
+      },
+      "id": "7d6afb96c388958342ce1867bf45424b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "41",
+        "name": "Abilene Christian University",
+        "address": "1600 Campus Ct, Abilene, Tx 79601, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.708098,
+          32.469732
+        ],
+        "type": "Point"
+      },
+      "id": "8102d17c7d3dc592958bffd9e2387473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "12",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "8131108860671987b49440723fc193ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "126",
+        "name": "Purdue University",
+        "address": "610 Purdue Mall, West Lafayette, In 47907, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.921194,
+          40.423705
+        ],
+        "type": "Point"
+      },
+      "id": "818997a9a497ed29e2624809a1afb7a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "2",
+        "name": "Texas",
+        "address": "Texas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          31.968598
+        ],
+        "type": "Point"
+      },
+      "id": "819b85fe927e272482d66f66887f9d53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "201",
+        "name": "North Carolina State University",
+        "address": "Raleigh, Nc 27695, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.682094,
+          35.784663
+        ],
+        "type": "Point"
+      },
+      "id": "82292f1d9ec083dd958fbf71d86aa1ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "141",
+        "name": "Louisville",
+        "address": "Louisville, Ky, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.758455,
+          38.252664
+        ],
+        "type": "Point"
+      },
+      "id": "82d88b71421023166084f2220fc63c1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "171",
+        "name": "Wisconsin",
+        "address": "Wisconsin, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.787867,
+          43.784439
+        ],
+        "type": "Point"
+      },
+      "id": "82f687180ca3107bf07f54748f9ad78e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "94",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "82ffb819c49d9e33df3b33b8b5e1b94a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "35",
+        "name": "Florida",
+        "address": "Florida, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.515753,
+          27.664827
+        ],
+        "type": "Point"
+      },
+      "id": "83116cb5910f2a3272f6923ab689c4ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "136",
+        "name": "Miami University",
+        "address": "501 E High St, Oxford, Oh 45056, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.734491,
+          39.508748
+        ],
+        "type": "Point"
+      },
+      "id": "84e620b0ae390b4b0986da148c5fc0c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "100",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "84f948373f0e5ee548eddd1da11318ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "208",
+        "name": "Northwestern University",
+        "address": "633 Clark St, Evanston, Il 60208, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.675266,
+          42.056459
+        ],
+        "type": "Point"
+      },
+      "id": "8682a69ad82eed45fb7857884810bef8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "113",
+        "name": "Washington",
+        "address": "Washington, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.740138,
+          47.751074
+        ],
+        "type": "Point"
+      },
+      "id": "87287292b7588d24554621c1ca2c62dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "169",
+        "name": "Virginia",
+        "address": "Virginia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.656894,
+          37.431573
+        ],
+        "type": "Point"
+      },
+      "id": "8a202d6cc77e803009c28c873b0ce819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "195",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "8cf09db767faaaefe484c818f8046743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "82",
+        "name": "Syracuse",
+        "address": "Syracuse, Ny, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.147424,
+          43.048122
+        ],
+        "type": "Point"
+      },
+      "id": "8d9fc786854a53fea281a0a7fa4f11b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "74",
+        "name": "Louisville",
+        "address": "Louisville, Ky, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.758455,
+          38.252664
+        ],
+        "type": "Point"
+      },
+      "id": "90fae4248b016e3d24b1dbbb091a7f8d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "147",
+        "name": "Furman University",
+        "address": "3300 Poinsett Hwy, Greenville, Sc 29613, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.440072,
+          34.926015
+        ],
+        "type": "Point"
+      },
+      "id": "93db2799b242521b5109f8ce715ef9e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "250",
+        "name": "Hofstra University",
+        "address": "1000 Hempstead Turnpike, Hempstead, Ny 11549, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.599396,
+          40.716687
+        ],
+        "type": "Point"
+      },
+      "id": "9411eaada31b599b2dd901debb9482d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "202",
+        "name": "Nebraska",
+        "address": "Nebraska, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          41.492537
+        ],
+        "type": "Point"
+      },
+      "id": "944fbceaebdc04f4a4d0b98aa4632560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "1",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "946af8c3c5d48e6742110402e918c03b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "214",
+        "name": "New Mexico",
+        "address": "New Mexico, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.87009,
+          34.51994
+        ],
+        "type": "Point"
+      },
+      "id": "9482f0383dc9daef1e8bd779a9c218ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "244",
+        "name": "Utah",
+        "address": "Utah, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.093731,
+          39.32098
+        ],
+        "type": "Point"
+      },
+      "id": "949d6ebf120dbfe4dc67c4ca93b91b20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "63",
+        "name": "Alabama State University",
+        "address": "915 S Jackson St, Montgomery, Al 36104, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.294017,
+          32.363657
+        ],
+        "type": "Point"
+      },
+      "id": "96b889335cffec51ccc387c4df338520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "225",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "96ccbb84393864bfe593aed385946d39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "181",
+        "name": "Louisville",
+        "address": "Louisville, Ky, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.758455,
+          38.252664
+        ],
+        "type": "Point"
+      },
+      "id": "9a06632b2caadfb55af3e59054e33548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "183",
+        "name": "California State University, Fresno",
+        "address": "5241 N Maple Ave, Fresno, Ca 93740, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.746094,
+          36.813363
+        ],
+        "type": "Point"
+      },
+      "id": "9b153d6607add3283b56a307706d80c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "38",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "9c3c63ceaf89e92040d7270181833158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "128",
+        "name": "East Carolina University",
+        "address": "E 5Th St, Greenville, Nc 27858, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.364565,
+          35.60551
+        ],
+        "type": "Point"
+      },
+      "id": "9c7bb43301cf40e84689b85963f78ab4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "156",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "9d0c3b3178d07cf584088a9b3210c641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "226",
+        "name": "University Of California, Los Angeles",
+        "address": "Los Angeles, Ca 90095, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.445181,
+          34.068921
+        ],
+        "type": "Point"
+      },
+      "id": "9f395d2a0038e5db34d18a5344558770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "56",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "a0d81997f8a0b622a7fcd062d1ae9bab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "230",
+        "name": "Maryland",
+        "address": "Maryland, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.641271,
+          39.045754
+        ],
+        "type": "Point"
+      },
+      "id": "a1d8caba5747fb8abb5a19e1830aa794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "161",
+        "name": "Texas Christian University",
+        "address": "2800 S University Dr, Fort Worth, Tx 76129, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.36356,
+          32.709593
+        ],
+        "type": "Point"
+      },
+      "id": "a3a4901edb1b5042b4409889253b934b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "186",
+        "name": "Kansas State",
+        "address": "5151 Scenic Dr, Larned, Ks 67550, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.098712,
+          38.180569
+        ],
+        "type": "Point"
+      },
+      "id": "a3cbaeb2e11f41303ff85e0a01a57c8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "245",
+        "name": "Tulane University",
+        "address": "6823 St Charles Ave, New Orleans, La 70118, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.120316,
+          29.940728
+        ],
+        "type": "Point"
+      },
+      "id": "a471d1ba920c5af535d1441d951dfa71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "109",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "a66b171840a2d34b449834152c175684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "150",
+        "name": "Ray Rd & Iowa St",
+        "address": "Chandler, Az 85225, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.84663,
+          33.32054
+        ],
+        "type": "Point"
+      },
+      "id": "a66f1f07cd52d08ebc08d80d5f3a1ee2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "233",
+        "name": "Oregon",
+        "address": "Oregon, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.554201,
+          43.804133
+        ],
+        "type": "Point"
+      },
+      "id": "a85d9c8b24c38c34ae36d378f87cd778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "7",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "a8f72640da9aa29c16cde2269f7be5c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "46",
+        "name": "Boise State University",
+        "address": "1910 W University Dr, Boise, Id 83725, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.201767,
+          43.602831
+        ],
+        "type": "Point"
+      },
+      "id": "a9410bb498d80777a545270203fec023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "43",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "acff91c79a42e2a3299a5a4656f1ef9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "111",
+        "name": "Indiana",
+        "address": "Indiana, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.134901,
+          40.267194
+        ],
+        "type": "Point"
+      },
+      "id": "af050ebd838654d51007185b14b3b154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "132",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "af54aad203c89e97706e9efb47ec7460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "51",
+        "name": "Michigan",
+        "address": "Michigan, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.602364,
+          44.314844
+        ],
+        "type": "Point"
+      },
+      "id": "b18d6251b43512d463a42f6bb389533c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "224",
+        "name": "Texas",
+        "address": "Texas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          31.968598
+        ],
+        "type": "Point"
+      },
+      "id": "b29321ae715a545caa72e9146a63aa21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "165",
+        "name": "Colorado",
+        "address": "Colorado, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.782067,
+          39.55005
+        ],
+        "type": "Point"
+      },
+      "id": "b2afe79b2af58d0a8c7249a674c0d2a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "81",
+        "name": "Arizona State University, Tempe Campus",
+        "address": "Tempe, Az 85281, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.928052,
+          33.424239
+        ],
+        "type": "Point"
+      },
+      "id": "b318df7e8e98ce11619fb253680b4361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "177",
+        "name": "Oregon State University",
+        "address": "Corvallis, Or 97331, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.279444,
+          44.56378
+        ],
+        "type": "Point"
+      },
+      "id": "b4f1e02b243422c1143c1689292e4b02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "152",
+        "name": "Minnesota",
+        "address": "Minnesota, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.685899,
+          46.729553
+        ],
+        "type": "Point"
+      },
+      "id": "b504187510448ed06b31bbd9c0da186f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "210",
+        "name": "Texas State University",
+        "address": "601 University Dr, San Marcos, Tx 78666, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.938351,
+          29.888411
+        ],
+        "type": "Point"
+      },
+      "id": "b5be24c37884e83facee9e0a058d6c6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "213",
+        "name": "Samford University",
+        "address": "800 Lakeshore Dr, Birmingham, Al 35209, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.791519,
+          33.465586
+        ],
+        "type": "Point"
+      },
+      "id": "b6abe9c557f7be74119f5c3d1d140bdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "39",
+        "name": "Nebraska",
+        "address": "Nebraska, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          41.492537
+        ],
+        "type": "Point"
+      },
+      "id": "b781d90d142904803c4334853f82de51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "75",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "b9164565a91489e8a86af48bd193b6cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "167",
+        "name": "Tennessee",
+        "address": "Tennessee, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.580447,
+          35.517491
+        ],
+        "type": "Point"
+      },
+      "id": "bac5aebec546fbf091419e6bb3d5582b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "234",
+        "name": "Florida",
+        "address": "Florida, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.515753,
+          27.664827
+        ],
+        "type": "Point"
+      },
+      "id": "bb6d838f449e5a1f8ac3b9df1a700a1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "110",
+        "name": "Oregon",
+        "address": "Oregon, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.554201,
+          43.804133
+        ],
+        "type": "Point"
+      },
+      "id": "bbd534a88c71d7fb5a22b6011ed9d67a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "170",
+        "name": "Oregon State University",
+        "address": "Corvallis, Or 97331, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.279444,
+          44.56378
+        ],
+        "type": "Point"
+      },
+      "id": "bdb0106011776a130134f1d3b6832a2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "133",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "bf295f5aec7f598be68ab7087a8464c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "205",
+        "name": "Nebraska",
+        "address": "Nebraska, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          41.492537
+        ],
+        "type": "Point"
+      },
+      "id": "bfc33662f6099045f0e3cc52a396c401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "50",
+        "name": "New Mexico",
+        "address": "New Mexico, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.87009,
+          34.51994
+        ],
+        "type": "Point"
+      },
+      "id": "c052ee33099ffe2a74b6f5acb4357bb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "26",
+        "name": "Memphis",
+        "address": "Memphis, Tn, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.04898,
+          35.149534
+        ],
+        "type": "Point"
+      },
+      "id": "c0d6f417c2ad3c4b1dd761a65e2de094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "103",
+        "name": "Texas Christian University",
+        "address": "2800 S University Dr, Fort Worth, Tx 76129, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.36356,
+          32.709593
+        ],
+        "type": "Point"
+      },
+      "id": "c13b7451c8f3180940d27a205cd36478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "188",
+        "name": "Texas Christian University",
+        "address": "2800 S University Dr, Fort Worth, Tx 76129, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.36356,
+          32.709593
+        ],
+        "type": "Point"
+      },
+      "id": "c370eb8b296777acdc7b2feaf64b91a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "155",
+        "name": "Stanford University",
+        "address": "450 Serra Mall, Stanford, Ca 94305, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.169719,
+          37.427474
+        ],
+        "type": "Point"
+      },
+      "id": "c481bf4803787d0fabefd3fa85d783c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "151",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "c64c244a4baecac17912aeb59fbd6083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "108",
+        "name": "Michigan",
+        "address": "Michigan, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.602364,
+          44.314844
+        ],
+        "type": "Point"
+      },
+      "id": "c663b40eec924a9785f079d579cf7ecb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "212",
+        "name": "7Th St & Michigan Av",
+        "address": "Phoenix, Az 85022, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.065724,
+          33.650355
+        ],
+        "type": "Point"
+      },
+      "id": "c72f048ad9f5f472440915b69d8f1a89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "197",
+        "name": "Minnesota",
+        "address": "Minnesota, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.685899,
+          46.729553
+        ],
+        "type": "Point"
+      },
+      "id": "c759588592945a4c27c7fafe3673c8a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "227",
+        "name": "Baylor University",
+        "address": "1311 S 5Th St, Waco, Tx 76706, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.121099,
+          31.546913
+        ],
+        "type": "Point"
+      },
+      "id": "c80113c66d4f46e4acb3bc6dd9d0d97b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "37",
+        "name": "El Paso",
+        "address": "El Paso, Tx, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.485021,
+          31.761877
+        ],
+        "type": "Point"
+      },
+      "id": "c811e80b38f807b04957ce58ee25aa0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "115",
+        "name": "North Carolina State University",
+        "address": "Raleigh, Nc 27695, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.682094,
+          35.784663
+        ],
+        "type": "Point"
+      },
+      "id": "c917d3143c6167c14dee59d0d0c386ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "215",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "caaac0683e6ad7b8c2745efadfa003fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "238",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "cb2375910f7be479de812149ca8f447f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "247",
+        "name": "Auburn",
+        "address": "Auburn, Al, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.480782,
+          32.609856
+        ],
+        "type": "Point"
+      },
+      "id": "cd3ac4cd2bba41f7fedc0be3aac58066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "180",
+        "name": "Stanford University",
+        "address": "450 Serra Mall, Stanford, Ca 94305, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.169719,
+          37.427474
+        ],
+        "type": "Point"
+      },
+      "id": "cd9e063ef3478af1b79bc00f6211de02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "184",
+        "name": "California State University, Fresno",
+        "address": "5241 N Maple Ave, Fresno, Ca 93740, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.746094,
+          36.813363
+        ],
+        "type": "Point"
+      },
+      "id": "d1951e6c39e33a6e580c35c2c6b3fad3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "116",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "d2078cae27b8ec7be6316bc2297b0dd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "193",
+        "name": "Toledo",
+        "address": "Toledo, Oh, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.537867,
+          41.652805
+        ],
+        "type": "Point"
+      },
+      "id": "d26087c4f3c58fd28ac5e2a4e8e5a7d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "139",
+        "name": "Tennessee",
+        "address": "Tennessee, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.580447,
+          35.517491
+        ],
+        "type": "Point"
+      },
+      "id": "d2a0e2c102473afa0a95b0ae6533a7c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "112",
+        "name": "Indiana",
+        "address": "Indiana, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.134901,
+          40.267194
+        ],
+        "type": "Point"
+      },
+      "id": "d2b1ae3c415bc5db074b42cfcbc6e573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "146",
+        "name": "Colorado",
+        "address": "Colorado, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.782067,
+          39.55005
+        ],
+        "type": "Point"
+      },
+      "id": "d5c8c193ea7290bc865e07df1779993e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "107",
+        "name": "Bloomsburg",
+        "address": "Bloomsburg, Pa 17815, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.454945,
+          41.003698
+        ],
+        "type": "Point"
+      },
+      "id": "d5d07b455b9800516b3bd290d4a8ae3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "90",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "d6b836d8f17701352ad2bc98a848ced1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "220",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "d85946b4c621a0769492ee4532604df2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "64",
+        "name": "Pittsburgh",
+        "address": "Pittsburgh, Pa, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.995886,
+          40.440624
+        ],
+        "type": "Point"
+      },
+      "id": "d8b37637a44bcae1919f76bc2d343051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "164",
+        "name": "Nevada",
+        "address": "Nevada, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.419389,
+          38.802609
+        ],
+        "type": "Point"
+      },
+      "id": "d909bb9909fc9f9ab5aab3bd5f3fad53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "105",
+        "name": "Tulsa",
+        "address": "Tulsa, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.992775,
+          36.153981
+        ],
+        "type": "Point"
+      },
+      "id": "d972fa46ab4cf5e3276dc5bf186b8408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "8",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "d9b35b29d365467ad26a47198b8ae311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "25",
+        "name": "North Carolina State University",
+        "address": "Raleigh, Nc 27695, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.682094,
+          35.784663
+        ],
+        "type": "Point"
+      },
+      "id": "d9f15c09dc009bb5ef2e1f00a7b1a95a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "134",
+        "name": "Purdue University",
+        "address": "610 Purdue Mall, West Lafayette, In 47907, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.921194,
+          40.423705
+        ],
+        "type": "Point"
+      },
+      "id": "da728505d17354bbc76cff34f0cca5f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "21",
+        "name": "North Carolina State University",
+        "address": "Raleigh, Nc 27695, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.682094,
+          35.784663
+        ],
+        "type": "Point"
+      },
+      "id": "dab6633cc924ecafcf010513f15fa970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "85",
+        "name": "Texas",
+        "address": "Texas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.901813,
+          31.968598
+        ],
+        "type": "Point"
+      },
+      "id": "dbf2df6ed2161ae3278b6a3fb6b1c2e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "121",
+        "name": "Penn State University",
+        "address": "State College, Pa 16801, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "dc0872b3f9c891ba5c85af5d084d3ed1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "40",
+        "name": "University Of Southern California",
+        "address": "Los Angeles, Ca 90007, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.285117,
+          34.022351
+        ],
+        "type": "Point"
+      },
+      "id": "dc5f84455981b5286f73a307cfb0bdcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "252",
+        "name": "Arkansas",
+        "address": "Arkansas, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.831833,
+          35.20105
+        ],
+        "type": "Point"
+      },
+      "id": "dcbba692f03820c1287ad64bbb3bcf98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "62",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "de963322354578c75d23981b9331b12e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "32",
+        "name": "Alabama",
+        "address": "Alabama, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.902298,
+          32.318231
+        ],
+        "type": "Point"
+      },
+      "id": "df0a162a04a65a1618e4f08ab4627715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "187",
+        "name": "Virginia",
+        "address": "Virginia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.656894,
+          37.431573
+        ],
+        "type": "Point"
+      },
+      "id": "dff71ac159ce0b81383b4b14c48009e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "191",
+        "name": "North Carolina State University",
+        "address": "Raleigh, Nc 27695, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.682094,
+          35.784663
+        ],
+        "type": "Point"
+      },
+      "id": "e514b506319e21f1f334209d254b8b95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "148",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "e6f99fea6bae1947a7312742578b4fab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "88",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "e7392cd29fcd9933c9096e00b0f31abd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "49",
+        "name": "Auburn",
+        "address": "Auburn, Al, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.480782,
+          32.609856
+        ],
+        "type": "Point"
+      },
+      "id": "e75c923aa8e7518c5ffa9f5d72eeef5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "53",
+        "name": "Purdue University",
+        "address": "610 Purdue Mall, West Lafayette, In 47907, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.921194,
+          40.423705
+        ],
+        "type": "Point"
+      },
+      "id": "e7a8bdb379e365fff18a9c603b251524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "137",
+        "name": "Florida State University",
+        "address": "210 Fsu Campus, Tallahassee, Fl 32306, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.303945,
+          30.439276
+        ],
+        "type": "Point"
+      },
+      "id": "e8692e40b9d65843cc8b7991ed5d4680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "175",
+        "name": "Cornell University",
+        "address": "Ithaca, Ny 14850, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.473502,
+          42.453449
+        ],
+        "type": "Point"
+      },
+      "id": "ea170c3f574ca9a715b8aa1871d44277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "80",
+        "name": "Clemson University",
+        "address": "105 Sikes Hall, Clemson, Sc 29634, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.836865,
+          34.673843
+        ],
+        "type": "Point"
+      },
+      "id": "eae93010f8ff0907c75091bb23dbe397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "20",
+        "name": "Minnesota",
+        "address": "Minnesota, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.685899,
+          46.729553
+        ],
+        "type": "Point"
+      },
+      "id": "eaf38b4b6d3f2a1277be620c65ab1cbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "176",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "ebedb786d1f13093acb58c3affe534f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "223",
+        "name": "North Carolina",
+        "address": "North Carolina, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.019299,
+          35.759573
+        ],
+        "type": "Point"
+      },
+      "id": "ee5e7535e62899bdfc06cd50e7685ecc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "196",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "eeba6992f361439f59b64537565df6c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "130",
+        "name": "Hofstra University",
+        "address": "1000 Hempstead Turnpike, Hempstead, Ny 11549, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.599396,
+          40.716687
+        ],
+        "type": "Point"
+      },
+      "id": "ef9d9886c7a117ecf77f02f1dadae771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "173",
+        "name": "Pittsburgh",
+        "address": "Pittsburgh, Pa, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.995886,
+          40.440624
+        ],
+        "type": "Point"
+      },
+      "id": "f03e4ceeb8804188a14260982335ef81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "52",
+        "name": "Notre Dame Preparatory High School",
+        "address": "9701 E Bell Rd, Scottsdale, Az 85260, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.87031,
+          33.637004
+        ],
+        "type": "Point"
+      },
+      "id": "f174ccbe45c441128513aeaa71f2481a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "251",
+        "name": "Northwest Missouri State University",
+        "address": "800 University Dr, Maryville, Mo 64468, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.882524,
+          40.351985
+        ],
+        "type": "Point"
+      },
+      "id": "f1806fd5dbc2acd9c01a508264841d07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "58",
+        "name": "Boston College",
+        "address": "140 Commonwealth Avenue, Chestnut Hill, Ma 02467, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.168494,
+          42.335548
+        ],
+        "type": "Point"
+      },
+      "id": "f1b42b808f6c209f22b549bc81f99043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "67",
+        "name": "Louisiana State University",
+        "address": "Baton Rouge, La 70803, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.180002,
+          30.413257
+        ],
+        "type": "Point"
+      },
+      "id": "f4d5b31157a9c78eae61058aaadf3d0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "154",
+        "name": "Virginia Polytechnic Institute And State University",
+        "address": "Blacksburg, Va 24061, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.423416,
+          37.228384
+        ],
+        "type": "Point"
+      },
+      "id": "f4d954564f12b72d33eb3a16fb2717c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "22",
+        "name": "Oklahoma City",
+        "address": "Oklahoma City, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.516427,
+          35.46756
+        ],
+        "type": "Point"
+      },
+      "id": "f55a9058c19d1c0e3c2a73487eb3d2ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "24",
+        "name": "The Ohio State University",
+        "address": "Columbus, Oh 43210, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030622,
+          40.006836
+        ],
+        "type": "Point"
+      },
+      "id": "f6470d617003d22c0e521c26a07ad57a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "192",
+        "name": "Texas A",
+        "address": "800 George Bush Dr, College Station, Tx 77840, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.333712,
+          30.609091
+        ],
+        "type": "Point"
+      },
+      "id": "f72d4e8db88d038b4ca83ed4752eb7e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "73",
+        "name": "Wisconsin",
+        "address": "Wisconsin, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.787867,
+          43.784439
+        ],
+        "type": "Point"
+      },
+      "id": "fa14c37e688777fbbbfda8de80f4bebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "199",
+        "name": "Penn State University",
+        "address": "State College, Pa 16801, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "faeb21d20556f28dabafc8d2fe511820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "71",
+        "name": "Georgia",
+        "address": "Georgia, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.900075,
+          32.165622
+        ],
+        "type": "Point"
+      },
+      "id": "fb29b1debd6dfbafdc75b4c027e64b5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "31",
+        "name": "Boston College",
+        "address": "140 Commonwealth Avenue, Chestnut Hill, Ma 02467, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.168494,
+          42.335548
+        ],
+        "type": "Point"
+      },
+      "id": "fbb978d7805ab22506aa8bc61df2c9e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "77",
+        "name": "Oklahoma City",
+        "address": "Oklahoma City, Ok, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.516427,
+          35.46756
+        ],
+        "type": "Point"
+      },
+      "id": "fd42bb507304ce0b6ee7c3b5b756a7c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "253",
+        "name": "Maine",
+        "address": "Maine, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.445468,
+          45.253783
+        ],
+        "type": "Point"
+      },
+      "id": "fd6a20f9cd59820112e9dad34e81b8de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "34",
+        "name": "Miami",
+        "address": "Miami, Fl, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19179,
+          25.761679
+        ],
+        "type": "Point"
+      },
+      "id": "fd98ab96c893d889f81250c0a15874f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "217",
+        "name": "Syracuse",
+        "address": "Syracuse, Ny, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.147424,
+          43.048122
+        ],
+        "type": "Point"
+      },
+      "id": "fe1fbab57d2c80ac5f7c8cfd71115f7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "99",
+        "name": "Penn State University",
+        "address": "State College, Pa 16801, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "ff8f3783ace189fd0dc95e6171f301b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "102",
+        "name": "Missouri",
+        "address": "Missouri, Usa"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.831833,
+          37.964252
+        ],
+        "type": "Point"
+      },
+      "id": "ffc10d0203e3c9e52c11155e5ef1cb06"
+    }
+  ],
+  "type": "FeatureCollection"
+}

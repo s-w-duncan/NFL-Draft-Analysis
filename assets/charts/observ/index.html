@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Untitled</title>
+<link rel="stylesheet" type="text/css" href="inspector.css">
+<link rel="stylesheet" type="text/css" href="https://raw.github.com/keng85/team-dashboard/master/assets/charts/observ/inspector.css">
+<body>
+<script type="module">
+
+import define from "./index.js";
+import {Runtime, Library, Inspector} from "./runtime.js";
+
+const runtime = new Runtime();
+const main = runtime.module(define, Inspector.into(document.body));
+
+</script>
+</body>

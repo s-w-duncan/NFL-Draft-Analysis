@@ -1,0 +1,14 @@
+{
+  "name": "1a9353e62a82b2e7",
+  "main": "1a9353e62a82b2e7@162.js",
+  "version": "162.0.0",
+  "homepage": "https://observablehq.com/d/1a9353e62a82b2e7",
+  "author": {
+    "name": "Scott Duncan",
+    "url": "https://observablehq.com/@s-w-duncan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
